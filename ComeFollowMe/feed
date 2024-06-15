@@ -5,45 +5,139 @@
 <atom:link href="https://scripturerss.github.io/ComeFollowMe/feed" rel="self" type="application/rss+xml" />
 <link>https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024?lang=eng</link>
 <description>Scriptures and Articles from the Come Follow Me lessons from the Church of Jesus Christ of Latter-Day Saints</description>
-<lastBuildDate>Fri Jun 14 2024 12:00:00 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
+<lastBuildDate>Sat Jun 15 2024 12:00:00 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>daily</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>node-red</generator><item>
-<title>Mosiah 17</title>
-<link>https://scriptures.byu.edu/scriptures/scriptures_ajax/212/17</link>
+<title>Mosiah 18</title>
+<link>https://scriptures.byu.edu/scriptures/scriptures_ajax/212/18</link>
 <dc:creator><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></dc:creator>
-<pubDate>Sun May 19 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</pubDate>
+<pubDate>Mon May 20 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</pubDate>
 <category><![CDATA[Come, Follow Me]]></category>
 <category><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></category>
 <category><![CDATA[The Book of Mormon]]></category>
 <category><![CDATA[Gospel Study]]></category>
-<guid isPermaLink="false">https://scriptures.byu.edu/scriptures/scriptures_ajax/212/17</guid>
-<description><![CDATA[Come, Follow Me 2024 - Mosiah 17]]></description>
+<guid isPermaLink="false">https://scriptures.byu.edu/scriptures/scriptures_ajax/212/18</guid>
+<description><![CDATA[Come, Follow Me 2024 - Mosiah 18]]></description>
 <content:encoded><![CDATA[<div class="nano-content">
         <div class="chapterheading"/>
-        <div class="navheading">CHAPTER 17</div>
+        <div class="navheading">CHAPTER 18</div>
         <ul class="versesblock">
-            <li id="mosiah_17.1" class=""><span class="verse">1</span> And now it came to pass that when Abinadi had finished these sayings, that the king commanded that the priests should take him and cause that he should be put to death.</li>
-            <li id="mosiah_17.2" class=""><span class="verse">2</span> But there was one among them whose name was Alma, he also being a descendant of Nephi.  And he was a young man, and he believed the words which Abinadi had spoken, for he knew concerning the iniquity which Abinadi had testified against them; therefore he began to plead with the king that he would not be angry with Abinadi, but suffer that he might depart in peace.</li>
-            <li id="mosiah_17.3" class=""><span class="verse">3</span> But the king was more wroth, and caused that Alma should be cast out from among them, and sent his servants after him that they might slay him.</li>
-            <li id="mosiah_17.4" class=""><span class="verse">4</span> But he fled from before them and hid himself that they found him not.  And he being concealed for many days did write all the words which Abinadi had spoken.</li>
-            <li id="mosiah_17.5" class=""><span class="verse">5</span> And it came to pass that the king caused that his guards should surround Abinadi and take him; and they bound him and cast him into prison.</li>
-            <li id="mosiah_17.6" class=""><span class="verse">6</span> And after three days, having counseled with his priests, he caused that he should again be brought before him.</li>
-            <li id="mosiah_17.7" class=""><span class="verse">7</span> And he said unto him: Abinadi, we have found an accusation against thee, and thou art worthy of death.</li>
-            <li id="mosiah_17.8" class=""><span class="verse">8</span> For thou hast said that God himself should come down among the children of men; and now, for this cause thou shalt be put to death unless thou wilt recall all the words which thou hast spoken evil concerning me and my people.</li>
-            <li id="mosiah_17.9" class=""><span class="verse">9</span> Now Abinadi said unto him: I say unto you, I will not recall the words which I have spoken unto you concerning this people, for they are true; and that ye may know of their surety I have suffered myself that I have fallen into your hands.</li>
-            <li id="mosiah_17.10" class=""><span class="verse">10</span> Yea, and I will suffer even until death, and I will not recall my words, and they shall stand as a testimony against you.  And if ye slay me ye will shed innocent blood, and this shall also stand as a testimony against you at the last day.</li>
-            <li id="mosiah_17.11" class=""><span class="verse">11</span> And now king Noah was about to release him, for he feared his word; for he feared that the judgments of God would come upon him.</li>
-            <li id="mosiah_17.12" class=""><span class="verse">12</span> But the priests lifted up their voices against him, and began to accuse him, saying: He has reviled the king.  Therefore the king was stirred up in anger against him, and he delivered him up that he might be slain.</li>
-            <li id="mosiah_17.13" class=""><span class="verse">13</span> And it came to pass that they took him and bound him, and scourged his skin with faggots, yea, even unto death.</li>
-            <li id="mosiah_17.14" class=""><span class="verse">14</span> And now when the flames began to scorch him, he cried unto them, saying:</li>
-            <li id="mosiah_17.15" class=""><span class="verse">15</span> Behold, even as ye have done unto me, so shall it come to pass that thy seed shall cause that many shall suffer the pains that I do suffer, even the pains of death by fire; and this because they believe in the salvation of the Lord their God.</li>
-            <li id="mosiah_17.16" class=""><span class="verse">16</span> And it will come to pass that ye shall be afflicted with all manner of diseases because of your iniquities.</li>
-            <li id="mosiah_17.17" class=""><span class="verse">17</span> Yea, and ye shall be smitten on every hand, and shall be driven and scattered to and fro, even as a wild flock is driven by wild and ferocious beasts.</li>
-            <li id="mosiah_17.18" class=""><span class="verse">18</span> And in that day ye shall be hunted, and ye shall be taken by the hand of your enemies, and then ye shall suffer, as I suffer, the pains of death by fire.</li>
-            <li id="mosiah_17.19" class=""><span class="verse">19</span> Thus God executeth vengeance upon those that destroy his people.  O God, receive my soul.</li>
-            <li id="mosiah_17.20" class=""><span class="verse">20</span> And now, when Abinadi had said these words, he fell, having suffered death by fire; yea, having been put to death because he would not deny the commandments of God, having sealed the truth of his words by his death.</li>
+            <li id="mosiah_18.1" class=""><span class="verse">1</span> And now, it came to pass that Alma, who had fled from the servants of king Noah, repented of his sins and iniquities, and went about privately among the people, and began to teach the words of Abinadi&#x2014;</li>
+            <li id="mosiah_18.2" class=""><span class="verse">2</span> Yea, concerning that which was to come, and also concerning the resurrection of the dead, and the redemption of the people, which was to be brought to pass through the power, and sufferings, and death of Christ, and his resurrection and ascension into heaven.</li>
+            <li id="mosiah_18.3" class=""><span class="verse">3</span> And as many as would hear his word he did teach.  And he taught them privately, that it might not come to the knowledge of the king.  And many did believe his words.</li>
+            <li id="mosiah_18.4" class=""><span class="verse">4</span> And it came to pass that as many as did believe him did go forth to a place which was called Mormon, having received its name from the king, being in the borders of the land having been infested, by times or at seasons, by wild beasts.</li>
+            <li id="mosiah_18.5" class=""><span class="verse">5</span> Now, there was in Mormon a fountain of pure water, and Alma resorted thither, there being near the water a thicket of small trees, where he did hide himself in the daytime from the searches of the king.</li>
+            <li id="mosiah_18.6" class=""><span class="verse">6</span> And it came to pass that as many as believed him went thither to hear his words.</li>
+            <li id="mosiah_18.7" class=""><span class="verse">7</span> And it came to pass after many days there were a goodly number gathered together at the place of Mormon, to hear the words of Alma.  Yea, all were gathered together that believed on his word, to hear him.  And he did teach them, and did preach unto them repentance, and redemption, and faith on the Lord.</li>
+            <li id="mosiah_18.8" class=""><span class="verse">8</span> And it came to pass that he said unto them: Behold, here are the waters of Mormon (for thus were they called) and now, as ye are desirous to come into the fold of God, and to be called his people, and are willing to bear one another&#x2019;s burdens, that they may be light;</li>
+            <li id="mosiah_18.9" class=""><span class="verse">9</span> Yea, and are willing to mourn with those that mourn; yea, and comfort those that stand in need of comfort, and to stand as witnesses of God at all times and in all things, and in all places that ye may be in, even until death, that ye may be redeemed of God, and be numbered with those of the first resurrection, that ye may have eternal life&#x2014;</li>
+            <li id="mosiah_18.10" class=""><span class="verse">10</span> Now I say unto you, if this be the desire of your hearts, what have you against being baptized in the name of the Lord, as a witness before him that ye have entered into a covenant with him, that ye will serve him and keep his commandments, that he may pour out his Spirit more abundantly upon you?</li>
+            <li id="mosiah_18.11" class=""><span class="verse">11</span> And now when the people had heard these words, they clapped their hands for joy, and exclaimed: This is the desire of our hearts.</li>
+            <li id="mosiah_18.12" class=""><span class="verse">12</span> And now it came to pass that Alma took Helam, he being one of the first, and went and stood forth in the water, and cried, saying: O Lord, pour out thy Spirit upon thy servant, that he may do this work with holiness of heart.</li>
+            <li id="mosiah_18.13" class=""><span class="verse">13</span> And when he had said these words, the Spirit of the Lord was upon him, and he said: Helam, I baptize thee, having authority from the Almighty God, as a testimony that ye have entered into a covenant to serve him until you are dead as to the mortal body; and may the Spirit of the Lord be poured out upon you; and may he grant unto you eternal life, through the redemption of Christ, whom he has prepared from the foundation of the world.</li>
+            <li id="mosiah_18.14" class=""><span class="verse">14</span> And after Alma had said these words, both Alma and Helam were buried in the water; and they arose and came forth out of the water rejoicing, being filled with the Spirit.</li>
+            <li id="mosiah_18.15" class=""><span class="verse">15</span> And again, Alma took another, and went forth a second time into the water, and baptized him according to the first, only he did not bury himself again in the water.</li>
+            <li id="mosiah_18.16" class=""><span class="verse">16</span> And after this manner he did baptize every one that went forth to the place of Mormon; and they were in number about two hundred and four souls; yea, and they were baptized in the waters of Mormon, and were filled with the grace of God.</li>
+            <li id="mosiah_18.17" class=""><span class="verse">17</span> And they were called the church of God, or the church of Christ, from that time forward.  And it came to pass that whosoever was baptized by the power and authority of God was added to his church.</li>
+            <li id="mosiah_18.18" class=""><span class="verse">18</span> And it came to pass that Alma, having authority from God, ordained priests; even one priest to every fifty of their number did he ordain to preach unto them, and to teach them concerning the things pertaining to the kingdom of God.</li>
+            <li id="mosiah_18.19" class=""><span class="verse">19</span> And he commanded them that they should teach nothing save it were the things which he had taught, and which had been spoken by the mouth of the holy prophets.</li>
+            <li id="mosiah_18.20" class=""><span class="verse">20</span> Yea, even he commanded them that they should preach nothing save it were repentance and faith on the Lord, who had redeemed his people.</li>
+            <li id="mosiah_18.21" class=""><span class="verse">21</span> And he commanded them that there should be no contention one with another, but that they should look forward with one eye, having one faith and one baptism, having their hearts knit together in unity and in love one towards another.</li>
+            <li id="mosiah_18.22" class=""><span class="verse">22</span> And thus he commanded them to preach.  And thus they became the children of God.</li>
+            <li id="mosiah_18.23" class=""><span class="verse">23</span> And he commanded them that they should observe the sabbath day, and keep it holy, and also every day they should give thanks to the Lord their God.</li>
+            <li id="mosiah_18.24" class=""><span class="verse">24</span> And he also commanded them that the priests whom he had ordained should labor with their own hands for their support.</li>
+            <li id="mosiah_18.25" class=""><span class="verse">25</span> And there was one day in every week that was set apart that they should gather themselves together to teach the people, and to worship the Lord their God, and also, as often as it was in their power, to assemble themselves together.</li>
+            <li id="mosiah_18.26" class=""><span class="verse">26</span> And the priests were not to depend upon the people for their support; but for their labor they were to receive the grace of God, that they might wax strong in the Spirit, having the knowledge of God, that they might teach with power and authority from God.</li>
+            <li id="mosiah_18.27" class=""><span class="verse">27</span> And again Alma commanded that the people of the church should impart of their substance, every one according to that which he had; if he have more abundantly he should impart more abundantly; and of him that had but little, but little should be required; and to him that had not should be given.</li>
+            <li id="mosiah_18.28" class=""><span class="verse">28</span> And thus they should impart of their substance of their own free will and good desires towards God, and to those priests that stood in need, yea, and to every needy, naked soul.</li>
+            <li id="mosiah_18.29" class=""><span class="verse">29</span> And this he said unto them, having been commanded of God; and they did walk uprightly before God, imparting to one another both temporally and spiritually according to their needs and their wants.</li>
+            <li id="mosiah_18.30" class=""><span class="verse">30</span> And now it came to pass that all this was done in Mormon, yea, by the waters of Mormon, in the forest that was near the waters of Mormon; yea, the place of Mormon, the waters of Mormon, the forest of Mormon, how beautiful are they to the eyes of them who there came to the knowledge of their Redeemer; yea, and how blessed are they, for they shall sing to his praise forever.</li>
+            <li id="mosiah_18.31" class=""><span class="verse">31</span> And these things were done in the borders of the land, that they might not come to the knowledge of the king.</li>
+            <li id="mosiah_18.32" class=""><span class="verse">32</span> But behold, it came to pass that the king, having discovered a movement among the people, sent his servants to watch them. Therefore on the day that they were assembling themselves together to hear the word of the Lord they were discovered unto the king.</li>
+            <li id="mosiah_18.33" class=""><span class="verse">33</span> And now the king said that Alma was stirring up the people to rebellion against him; therefore he sent his army to destroy them.</li>
+            <li id="mosiah_18.34" class=""><span class="verse">34</span> And it came to pass that Alma and the people of the Lord were apprised of the coming of the king&#x2019;s army; therefore they took their tents and their families and departed into the wilderness.</li>
+            <li id="mosiah_18.35" class=""><span class="verse">35</span> And they were in number about four hundred and fifty souls.</li>
+        </ul>
+    </div>]]></content:encoded>
+</item><item>
+<title>Mosiah 22</title>
+<link>https://scriptures.byu.edu/scriptures/scriptures_ajax/212/22</link>
+<dc:creator><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></dc:creator>
+<pubDate>Thu May 23 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</pubDate>
+<category><![CDATA[Come, Follow Me]]></category>
+<category><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></category>
+<category><![CDATA[The Book of Mormon]]></category>
+<category><![CDATA[Gospel Study]]></category>
+<guid isPermaLink="false">https://scriptures.byu.edu/scriptures/scriptures_ajax/212/22</guid>
+<description><![CDATA[Come, Follow Me 2024 - Mosiah 22]]></description>
+<content:encoded><![CDATA[<div class="nano-content">
+        <div class="chapterheading"/>
+        <div class="navheading">CHAPTER 22</div>
+        <ul class="versesblock">
+            <li id="mosiah_22.1" class=""><span class="verse">1</span> And now it came to pass that Ammon and king Limhi began to consult with the people how they should deliver themselves out of bondage; and even they did cause that all the people should gather themselves together; and this they did that they might have the voice of the people concerning the matter.</li>
+            <li id="mosiah_22.2" class=""><span class="verse">2</span> And it came to pass that they could find no way to deliver themselves out of bondage, except it were to take their women and children, and their flocks, and their herds, and their tents, and depart into the wilderness; for the Lamanites being so numerous, it was impossible for the people of Limhi to contend with them, thinking to deliver themselves out of bondage by the sword.</li>
+            <li id="mosiah_22.3" class=""><span class="verse">3</span> Now it came to pass that Gideon went forth and stood before the king, and said unto him: Now O king, thou hast hitherto hearkened unto my words many times when we have been contending with our brethren, the Lamanites.</li>
+            <li id="mosiah_22.4" class=""><span class="verse">4</span> And now O king, if thou hast not found me to be an unprofitable servant, or if thou hast hitherto listened to my words in any degree, and they have been of service to thee, even so I desire that thou wouldst listen to my words at this time, and I will be thy servant and deliver this people out of bondage.</li>
+            <li id="mosiah_22.5" class=""><span class="verse">5</span> And the king granted unto him that he might speak.  And Gideon said unto him:</li>
+            <li id="mosiah_22.6" class=""><span class="verse">6</span> Behold the back pass, through the back wall, on the back side of the city.  The Lamanites, or the guards of the Lamanites, by night are drunken; therefore let us send a proclamation among all this people that they gather together their flocks and herds, that they may drive them into the wilderness by night.</li>
+            <li id="mosiah_22.7" class=""><span class="verse">7</span> And I will go according to thy command and pay the last tribute of wine to the Lamanites, and they will be drunken; and we will pass through the secret pass on the left of their camp when they are drunken and asleep.</li>
+            <li id="mosiah_22.8" class=""><span class="verse">8</span> Thus we will depart with our women and our children, our flocks, and our herds into the wilderness; and we will travel around the land of Shilom.</li>
+            <li id="mosiah_22.9" class=""><span class="verse">9</span> And it came to pass that the king hearkened unto the words of Gideon.</li>
+            <li id="mosiah_22.10" class=""><span class="verse">10</span> And king Limhi caused that his people should gather their flocks together; and he sent the tribute of wine to the Lamanites; and he also sent more wine, as a present unto them; and they did drink freely of the wine which king Limhi did send unto them.</li>
+            <li id="mosiah_22.11" class=""><span class="verse">11</span> And it came to pass that the people of king Limhi did depart by night into the wilderness with their flocks and their herds, and they went round about the land of Shilom in the wilderness, and bent their course towards the land of Zarahemla, being led by Ammon and his brethren.</li>
+            <li id="mosiah_22.12" class=""><span class="verse">12</span> And they had taken all their gold, and silver, and their precious things, which they could carry, and also their provisions with them, into the wilderness; and they pursued their journey.</li>
+            <li id="mosiah_22.13" class=""><span class="verse">13</span> And after being many days in the wilderness they arrived in the land of Zarahemla, and joined Mosiah&#x2019;s people, and became his subjects.</li>
+            <li id="mosiah_22.14" class=""><span class="verse">14</span> And it came to pass that Mosiah received them with joy; and he also received their records, and also the records which had been found by the people of Limhi.</li>
+            <li id="mosiah_22.15" class=""><span class="verse">15</span> And now it came to pass when the Lamanites had found that the people of Limhi had departed out of the land by night, that they sent an army into the wilderness to pursue them;</li>
+            <li id="mosiah_22.16" class=""><span class="verse">16</span> And after they had pursued them two days, they could no longer follow their tracks; therefore they were lost in the wilderness.</li>
+        </ul>
+    </div>]]></content:encoded>
+</item><item>
+<title>Mosiah 19</title>
+<link>https://scriptures.byu.edu/scriptures/scriptures_ajax/212/19</link>
+<dc:creator><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></dc:creator>
+<pubDate>Mon May 20 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</pubDate>
+<category><![CDATA[Come, Follow Me]]></category>
+<category><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></category>
+<category><![CDATA[The Book of Mormon]]></category>
+<category><![CDATA[Gospel Study]]></category>
+<guid isPermaLink="false">https://scriptures.byu.edu/scriptures/scriptures_ajax/212/19</guid>
+<description><![CDATA[Come, Follow Me 2024 - Mosiah 19]]></description>
+<content:encoded><![CDATA[<div class="nano-content">
+        <div class="chapterheading"/>
+        <div class="navheading">CHAPTER 19</div>
+        <ul class="versesblock">
+            <li id="mosiah_19.1" class=""><span class="verse">1</span> And it came to pass that the army of the king returned, having searched in vain for the people of the Lord.</li>
+            <li id="mosiah_19.2" class=""><span class="verse">2</span> And now behold, the forces of the king were small, having been reduced, and there began to be a division among the remainder of the people.</li>
+            <li id="mosiah_19.3" class=""><span class="verse">3</span> And the lesser part began to breathe out threatenings against the king, and there began to be a great contention among them.</li>
+            <li id="mosiah_19.4" class=""><span class="verse">4</span> And now there was a man among them whose name was Gideon, and he being a strong man and an enemy to the king, therefore he drew his sword, and swore in his wrath that he would slay the king.</li>
+            <li id="mosiah_19.5" class=""><span class="verse">5</span> And it came to pass that he fought with the king; and when the king saw that he was about to overpower him, he fled and ran and got upon the tower which was near the temple.</li>
+            <li id="mosiah_19.6" class=""><span class="verse">6</span> And Gideon pursued after him and was about to get upon the tower to slay the king, and the king cast his eyes round about towards the land of Shemlon, and behold, the army of the Lamanites were within the borders of the land.</li>
+            <li id="mosiah_19.7" class=""><span class="verse">7</span> And now the king cried out in the anguish of his soul, saying: Gideon, spare me, for the Lamanites are upon us, and they will destroy us; yea, they will destroy my people.</li>
+            <li id="mosiah_19.8" class=""><span class="verse">8</span> And now the king was not so much concerned about his people as he was about his own life; nevertheless, Gideon did spare his life.</li>
+            <li id="mosiah_19.9" class=""><span class="verse">9</span> And the king commanded the people that they should flee before the Lamanites, and he himself did go before them, and they did flee into the wilderness, with their women and their children.</li>
+            <li id="mosiah_19.10" class=""><span class="verse">10</span> And it came to pass that the Lamanites did pursue them, and did overtake them, and began to slay them.</li>
+            <li id="mosiah_19.11" class=""><span class="verse">11</span> Now it came to pass that the king commanded them that all the men should leave their wives and their children, and flee before the Lamanites.</li>
+            <li id="mosiah_19.12" class=""><span class="verse">12</span> Now there were many that would not leave them, but had rather stay and perish with them.  And the rest left their wives and their children and fled.</li>
+            <li id="mosiah_19.13" class=""><span class="verse">13</span> And it came to pass that those who tarried with their wives and their children caused that their fair daughters should stand forth and plead with the Lamanites that they would not slay them.</li>
+            <li id="mosiah_19.14" class=""><span class="verse">14</span> And it came to pass that the Lamanites had compassion on them, for they were charmed with the beauty of their women.</li>
+            <li id="mosiah_19.15" class=""><span class="verse">15</span> Therefore the Lamanites did spare their lives, and took them captives and carried them back to the land of Nephi, and granted unto them that they might possess the land, under the conditions that they would deliver up king Noah into the hands of the Lamanites, and deliver up their property, even one half of all they possessed, one half of their gold, and their silver, and all their precious things, and thus they should pay tribute to the king of the Lamanites from year to year.</li>
+            <li id="mosiah_19.16" class=""><span class="verse">16</span> And now there was one of the sons of the king among those that were taken captive, whose name was Limhi.</li>
+            <li id="mosiah_19.17" class=""><span class="verse">17</span> And now Limhi was desirous that his father should not be destroyed; nevertheless, Limhi was not ignorant of the iniquities of his father, he himself being a just man.</li>
+            <li id="mosiah_19.18" class=""><span class="verse">18</span> And it came to pass that Gideon sent men into the wilderness secretly, to search for the king and those that were with him. And it came to pass that they met the people in the wilderness, all save the king and his priests.</li>
+            <li id="mosiah_19.19" class=""><span class="verse">19</span> Now they had sworn in their hearts that they would return to the land of Nephi, and if their wives and their children were slain, and also those that had tarried with them, that they would seek revenge, and also perish with them.</li>
+            <li id="mosiah_19.20" class=""><span class="verse">20</span> And the king commanded them that they should not return; and they were angry with the king, and caused that he should suffer, even unto death by fire.</li>
+            <li id="mosiah_19.21" class=""><span class="verse">21</span> And they were about to take the priests also and put them to death, and they fled before them.</li>
+            <li id="mosiah_19.22" class=""><span class="verse">22</span> And it came to pass that they were about to return to the land of Nephi, and they met the men of Gideon.  And the men of Gideon told them of all that had happened to their wives and their children; and that the Lamanites had granted unto them that they might possess the land by paying a tribute to the Lamanites of one half of all they possessed.</li>
+            <li id="mosiah_19.23" class=""><span class="verse">23</span> And the people told the men of Gideon that they had slain the king, and his priests had fled from them farther into the wilderness.</li>
+            <li id="mosiah_19.24" class=""><span class="verse">24</span> And it came to pass that after they had ended the ceremony, that they returned to the land of Nephi, rejoicing, because their wives and their children were not slain; and they told Gideon what they had done to the king.</li>
+            <li id="mosiah_19.25" class=""><span class="verse">25</span> And it came to pass that the king of the Lamanites made an oath unto them, that his people should not slay them.</li>
+            <li id="mosiah_19.26" class=""><span class="verse">26</span> And also Limhi, being the son of the king, having the kingdom conferred upon him by the people, made oath unto the king of the Lamanites that his people should pay tribute unto him, even one half of all they possessed.</li>
+            <li id="mosiah_19.27" class=""><span class="verse">27</span> And it came to pass that Limhi began to establish the kingdom and to establish peace among his people.</li>
+            <li id="mosiah_19.28" class=""><span class="verse">28</span> And the king of the Lamanites set guards round about the land, that he might keep the people of Limhi in the land, that they might not depart into the wilderness; and he did support his guards out of the tribute which he did receive from the Nephites.</li>
+            <li id="mosiah_19.29" class=""><span class="verse">29</span> And now king Limhi did have continual peace in his kingdom for the space of two years, that the Lamanites did not molest them nor seek to destroy them.</li>
         </ul>
     </div>]]></content:encoded>
 </item><item>
@@ -92,6 +186,49 @@
             <li id="mosiah_15.29" class=""><span class="verse">29</span> Yea, Lord, thy watchmen shall lift up their voice; with the voice together shall they sing; for they shall see eye to eye, when the Lord shall bring again Zion.</li>
             <li id="mosiah_15.30" class=""><span class="verse">30</span> Break forth into joy, sing together, ye waste places of Jerusalem; for the Lord hath comforted his people, he hath redeemed Jerusalem.</li>
             <li id="mosiah_15.31" class=""><span class="verse">31</span> The Lord hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.</li>
+        </ul>
+    </div>]]></content:encoded>
+</item><item>
+<title>Mosiah 20</title>
+<link>https://scriptures.byu.edu/scriptures/scriptures_ajax/212/20</link>
+<dc:creator><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></dc:creator>
+<pubDate>Tue May 21 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</pubDate>
+<category><![CDATA[Come, Follow Me]]></category>
+<category><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></category>
+<category><![CDATA[The Book of Mormon]]></category>
+<category><![CDATA[Gospel Study]]></category>
+<guid isPermaLink="false">https://scriptures.byu.edu/scriptures/scriptures_ajax/212/20</guid>
+<description><![CDATA[Come, Follow Me 2024 - Mosiah 20]]></description>
+<content:encoded><![CDATA[<div class="nano-content">
+        <div class="chapterheading"/>
+        <div class="navheading">CHAPTER 20</div>
+        <ul class="versesblock">
+            <li id="mosiah_20.1" class=""><span class="verse">1</span> Now there was a place in Shemlon where the daughters of the Lamanites did gather themselves together to sing, and to dance, and to make themselves merry.</li>
+            <li id="mosiah_20.2" class=""><span class="verse">2</span> And it came to pass that there was one day a small number of them gathered together to sing and to dance.</li>
+            <li id="mosiah_20.3" class=""><span class="verse">3</span> And now the priests of king Noah, being ashamed to return to the city of Nephi, yea, and also fearing that the people would slay them, therefore they durst not return to their wives and their children.</li>
+            <li id="mosiah_20.4" class=""><span class="verse">4</span> And having tarried in the wilderness, and having discovered the daughters of the Lamanites, they laid and watched them;</li>
+            <li id="mosiah_20.5" class=""><span class="verse">5</span> And when there were but few of them gathered together to dance, they came forth out of their secret places and took them and carried them into the wilderness; yea, twenty and four of the daughters of the Lamanites they carried into the wilderness.</li>
+            <li id="mosiah_20.6" class=""><span class="verse">6</span> And it came to pass that when the Lamanites found that their daughters had been missing, they were angry with the people of Limhi, for they thought it was the people of Limhi.</li>
+            <li id="mosiah_20.7" class=""><span class="verse">7</span> Therefore they sent their armies forth; yea, even the king himself went before his people; and they went up to the land of Nephi to destroy the people of Limhi.</li>
+            <li id="mosiah_20.8" class=""><span class="verse">8</span> And now Limhi had discovered them from the tower, even all their preparations for war did he discover; therefore he gathered his people together, and laid wait for them in the fields and in the forests.</li>
+            <li id="mosiah_20.9" class=""><span class="verse">9</span> And it came to pass that when the Lamanites had come up, that the people of Limhi began to fall upon them from their waiting places, and began to slay them.</li>
+            <li id="mosiah_20.10" class=""><span class="verse">10</span> And it came to pass that the battle became exceedingly sore, for they fought like lions for their prey.</li>
+            <li id="mosiah_20.11" class=""><span class="verse">11</span> And it came to pass that the people of Limhi began to drive the Lamanites before them; yet they were not half so numerous as the Lamanites.  But they fought for their lives, and for their wives, and for their children; therefore they exerted themselves and like dragons did they fight.</li>
+            <li id="mosiah_20.12" class=""><span class="verse">12</span> And it came to pass that they found the king of the Lamanites among the number of their dead; yet he was not dead, having been wounded and left upon the ground, so speedy was the flight of his people.</li>
+            <li id="mosiah_20.13" class=""><span class="verse">13</span> And they took him and bound up his wounds, and brought him before Limhi, and said: Behold, here is the king of the Lamanites; he having received a wound has fallen among their dead, and they have left him; and behold, we have brought him before you; and now let us slay him.</li>
+            <li id="mosiah_20.14" class=""><span class="verse">14</span> But Limhi said unto them: Ye shall not slay him, but bring him hither that I may see him.  And they brought him.  And Limhi said unto him: What cause have ye to come up to war against my people?  Behold, my people have not broken the oath that I made unto you; therefore, why should ye break the oath which ye made unto my people?</li>
+            <li id="mosiah_20.15" class=""><span class="verse">15</span> And now the king said: I have broken the oath because thy people did carry away the daughters of my people; therefore, in my anger I did cause my people to come up to war against thy people.</li>
+            <li id="mosiah_20.16" class=""><span class="verse">16</span> And now Limhi had heard nothing concerning this matter; therefore he said: I will search among my people and whosoever has done this thing shall perish.  Therefore he caused a search to be made among his people.</li>
+            <li id="mosiah_20.17" class=""><span class="verse">17</span> Now when Gideon had heard these things, he being the king&#x2019;s captain, he went forth and said unto the king: I pray thee forbear, and do not search this people, and lay not this thing to their charge.</li>
+            <li id="mosiah_20.18" class=""><span class="verse">18</span> For do ye not remember the priests of thy father, whom this people sought to destroy?  And are they not in the wilderness?  And are not they the ones who have stolen the daughters of the Lamanites?</li>
+            <li id="mosiah_20.19" class=""><span class="verse">19</span> And now, behold, and tell the king of these things, that he may tell his people that they may be pacified towards us; for behold they are already preparing to come against us; and behold also there are but few of us.</li>
+            <li id="mosiah_20.20" class=""><span class="verse">20</span> And behold, they come with their numerous hosts; and except the king doth pacify them towards us we must perish.</li>
+            <li id="mosiah_20.21" class=""><span class="verse">21</span> For are not the words of Abinadi fulfilled, which he prophesied against us&#x2014;and all this because we would not hearken unto the words of the Lord, and turn from our iniquities?</li>
+            <li id="mosiah_20.22" class=""><span class="verse">22</span> And now let us pacify the king, and we fulfil the oath which we have made unto him; for it is better that we should be in bondage than that we should lose our lives; therefore, let us put a stop to the shedding of so much blood.</li>
+            <li id="mosiah_20.23" class=""><span class="verse">23</span> And now Limhi told the king all the things concerning his father, and the priests that had fled into the wilderness, and attributed the carrying away of their daughters to them.</li>
+            <li id="mosiah_20.24" class=""><span class="verse">24</span> And it came to pass that the king was pacified towards his people; and he said unto them: Let us go forth to meet my people, without arms; and I swear unto you with an oath that my people shall not slay thy people.</li>
+            <li id="mosiah_20.25" class=""><span class="verse">25</span> And it came to pass that they followed the king, and went forth without arms to meet the Lamanites.  And it came to pass that they did meet the Lamanites; and the king of the Lamanites did bow himself down before them, and did plead in behalf of the people of Limhi.</li>
+            <li id="mosiah_20.26" class=""><span class="verse">26</span> And when the Lamanites saw the people of Limhi, that they were without arms, they had compassion on them and were pacified towards them, and returned with their king in peace to their own land.</li>
         </ul>
     </div>]]></content:encoded>
 </item><item>
@@ -145,283 +282,6 @@
             <li id="mosiah_21.34" class=""><span class="verse">34</span> Therefore they did not at that time form themselves into a church, waiting upon the Spirit of the Lord.  Now they were desirous to become even as Alma and his brethren, who had fled into the wilderness.</li>
             <li id="mosiah_21.35" class=""><span class="verse">35</span> They were desirous to be baptized as a witness and a testimony that they were willing to serve God with all their hearts; nevertheless they did prolong the time; and an account of their baptism shall be given hereafter.</li>
             <li id="mosiah_21.36" class=""><span class="verse">36</span> And now all the study of Ammon and his people, and king Limhi and his people, was to deliver themselves out of the hands of the Lamanites and from bondage.</li>
-        </ul>
-    </div>]]></content:encoded>
-</item><item>
-<title>Mosiah 16</title>
-<link>https://scriptures.byu.edu/scriptures/scriptures_ajax/212/16</link>
-<dc:creator><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></dc:creator>
-<pubDate>Sat May 18 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</pubDate>
-<category><![CDATA[Come, Follow Me]]></category>
-<category><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></category>
-<category><![CDATA[The Book of Mormon]]></category>
-<category><![CDATA[Gospel Study]]></category>
-<guid isPermaLink="false">https://scriptures.byu.edu/scriptures/scriptures_ajax/212/16</guid>
-<description><![CDATA[Come, Follow Me 2024 - Mosiah 16]]></description>
-<content:encoded><![CDATA[<div class="nano-content">
-        <div class="chapterheading"/>
-        <div class="navheading">CHAPTER 16</div>
-        <ul class="versesblock">
-            <li id="mosiah_16.1" class=""><span class="verse">1</span> And now, it came to pass that after Abinadi had spoken these words he stretched forth his hand and said: The time shall come when all shall see the salvation of the Lord; when every nation, kindred, tongue, and people shall see eye to eye and shall confess before God that his judgments are just.</li>
-            <li id="mosiah_16.2" class=""><span class="verse">2</span> And then shall the wicked be cast out, and they shall have cause to howl, and weep, and wail, and gnash their teeth; and this because they would not hearken unto the voice of the Lord; therefore the Lord redeemeth them not.</li>
-            <li id="mosiah_16.3" class=""><span class="verse">3</span> For they are carnal and devilish, and the devil has power over them; yea, even that old serpent that did beguile our first parents, which was the cause of their fall; which was the cause of all mankind becoming carnal, sensual, devilish, knowing evil from good, subjecting themselves to the devil.</li>
-            <li id="mosiah_16.4" class=""><span class="verse">4</span> Thus all mankind were lost; and behold, they would have been endlessly lost were it not that God redeemed his people from their lost and fallen state.</li>
-            <li id="mosiah_16.5" class=""><span class="verse">5</span> But remember that he that persists in his own carnal nature, and goes on in the ways of sin and rebellion against God, remaineth in his fallen state and the devil hath all power over him.  Therefore he is as though there was no redemption made, being an enemy to God; and also is the devil an enemy to God.</li>
-            <li id="mosiah_16.6" class=""><span class="verse">6</span> And now if Christ had not come into the world, speaking of things to come as though they had already come, there could have been no redemption.</li>
-            <li id="mosiah_16.7" class=""><span class="verse">7</span> And if Christ had not risen from the dead, or have broken the bands of death that the grave should have no victory, and that death should have no sting, there could have been no resurrection.</li>
-            <li id="mosiah_16.8" class=""><span class="verse">8</span> But there is a resurrection, therefore the grave hath no victory, and the sting of death is swallowed up in Christ.</li>
-            <li id="mosiah_16.9" class=""><span class="verse">9</span> He is the light and the life of the world; yea, a light that is endless, that can never be darkened; yea, and also a life which is endless, that there can be no more death.</li>
-            <li id="mosiah_16.10" class=""><span class="verse">10</span> Even this mortal shall put on immortality, and this corruption shall put on incorruption, and shall be brought to stand before the bar of God, to be judged of him according to their works whether they be good or whether they be evil&#x2014;</li>
-            <li id="mosiah_16.11" class=""><span class="verse">11</span> If they be good, to the resurrection of endless life and happiness; and if they be evil, to the resurrection of endless damnation, being delivered up to the devil, who hath subjected them, which is damnation&#x2014;</li>
-            <li id="mosiah_16.12" class=""><span class="verse">12</span> Having gone according to their own carnal wills and desires; having never called upon the Lord while the arms of mercy were extended towards them; for the arms of mercy were extended towards them, and they would not; they being warned of their iniquities and yet they would not depart from them; and they were commanded to repent and yet they would not repent.</li>
-            <li id="mosiah_16.13" class=""><span class="verse">13</span> And now, ought ye not to tremble and repent of your sins, and remember that only in and through Christ ye can be saved?</li>
-            <li id="mosiah_16.14" class=""><span class="verse">14</span> Therefore, if ye teach the law of Moses, also teach that it is a shadow of those things which are to come&#x2014;</li>
-            <li id="mosiah_16.15" class=""><span class="verse">15</span> Teach them that redemption cometh through Christ the Lord, who is the very Eternal Father.  Amen.</li>
-        </ul>
-    </div>]]></content:encoded>
-</item><item>
-<title>Mosiah 14</title>
-<link>https://scriptures.byu.edu/scriptures/scriptures_ajax/212/14</link>
-<dc:creator><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></dc:creator>
-<pubDate>Thu May 16 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</pubDate>
-<category><![CDATA[Come, Follow Me]]></category>
-<category><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></category>
-<category><![CDATA[The Book of Mormon]]></category>
-<category><![CDATA[Gospel Study]]></category>
-<guid isPermaLink="false">https://scriptures.byu.edu/scriptures/scriptures_ajax/212/14</guid>
-<description><![CDATA[Come, Follow Me 2024 - Mosiah 14]]></description>
-<content:encoded><![CDATA[<div class="nano-content">
-        <div class="chapterheading"/>
-        <div class="navheading">CHAPTER 14</div>
-        <ul class="versesblock">
-            <li id="mosiah_14.1" class=""><span class="verse">1</span> Yea, even doth not Isaiah say: Who hath believed our report, and to whom is the arm of the Lord revealed?</li>
-            <li id="mosiah_14.2" class=""><span class="verse">2</span> For he shall grow up before him as a tender plant, and as a root out of dry ground; he hath no form nor comeliness; and when we shall see him there is no beauty that we should desire him.</li>
-            <li id="mosiah_14.3" class=""><span class="verse">3</span> He is despised and rejected of men; a man of sorrows, and acquainted with grief; and we hid as it were our faces from him; he was despised, and we esteemed him not.</li>
-            <li id="mosiah_14.4" class=""><span class="verse">4</span> Surely he has borne our griefs, and carried our sorrows; yet we did esteem him stricken, smitten of God, and afflicted.</li>
-            <li id="mosiah_14.5" class=""><span class="verse">5</span> But he was wounded for our transgressions, he was bruised for our iniquities; the chastisement of our peace was upon him; and with his stripes we are healed.</li>
-            <li id="mosiah_14.6" class=""><span class="verse">6</span> All we, like sheep, have gone astray; we have turned every one to his own way; and the Lord hath laid on him the iniquities of us all.</li>
-            <li id="mosiah_14.7" class=""><span class="verse">7</span> He was oppressed, and he was afflicted, yet he opened not his mouth; he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb so he opened not his mouth.</li>
-            <li id="mosiah_14.8" class=""><span class="verse">8</span> He was taken from prison and from judgment; and who shall declare his generation?  For he was cut off out of the land of the living; for the transgressions of my people was he stricken.</li>
-            <li id="mosiah_14.9" class=""><span class="verse">9</span> And he made his grave with the wicked, and with the rich in his death; because he had done no evil, neither was any deceit in his mouth.</li>
-            <li id="mosiah_14.10" class=""><span class="verse">10</span> Yet it pleased the Lord to bruise him; he hath put him to grief; when thou shalt make his soul an offering for sin he shall see his seed, he shall prolong his days, and the pleasure of the Lord shall prosper in his hand.</li>
-            <li id="mosiah_14.11" class=""><span class="verse">11</span> He shall see the travail of his soul, and shall be satisfied; by his knowledge shall my righteous servant justify many; for he shall bear their iniquities.</li>
-            <li id="mosiah_14.12" class=""><span class="verse">12</span> Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death; and he was numbered with the transgressors; and he bore the sins of many, and made intercession for the transgressors.</li>
-        </ul>
-    </div>]]></content:encoded>
-</item><item>
-<title>Mosiah 19</title>
-<link>https://scriptures.byu.edu/scriptures/scriptures_ajax/212/19</link>
-<dc:creator><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></dc:creator>
-<pubDate>Mon May 20 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</pubDate>
-<category><![CDATA[Come, Follow Me]]></category>
-<category><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></category>
-<category><![CDATA[The Book of Mormon]]></category>
-<category><![CDATA[Gospel Study]]></category>
-<guid isPermaLink="false">https://scriptures.byu.edu/scriptures/scriptures_ajax/212/19</guid>
-<description><![CDATA[Come, Follow Me 2024 - Mosiah 19]]></description>
-<content:encoded><![CDATA[<div class="nano-content">
-        <div class="chapterheading"/>
-        <div class="navheading">CHAPTER 19</div>
-        <ul class="versesblock">
-            <li id="mosiah_19.1" class=""><span class="verse">1</span> And it came to pass that the army of the king returned, having searched in vain for the people of the Lord.</li>
-            <li id="mosiah_19.2" class=""><span class="verse">2</span> And now behold, the forces of the king were small, having been reduced, and there began to be a division among the remainder of the people.</li>
-            <li id="mosiah_19.3" class=""><span class="verse">3</span> And the lesser part began to breathe out threatenings against the king, and there began to be a great contention among them.</li>
-            <li id="mosiah_19.4" class=""><span class="verse">4</span> And now there was a man among them whose name was Gideon, and he being a strong man and an enemy to the king, therefore he drew his sword, and swore in his wrath that he would slay the king.</li>
-            <li id="mosiah_19.5" class=""><span class="verse">5</span> And it came to pass that he fought with the king; and when the king saw that he was about to overpower him, he fled and ran and got upon the tower which was near the temple.</li>
-            <li id="mosiah_19.6" class=""><span class="verse">6</span> And Gideon pursued after him and was about to get upon the tower to slay the king, and the king cast his eyes round about towards the land of Shemlon, and behold, the army of the Lamanites were within the borders of the land.</li>
-            <li id="mosiah_19.7" class=""><span class="verse">7</span> And now the king cried out in the anguish of his soul, saying: Gideon, spare me, for the Lamanites are upon us, and they will destroy us; yea, they will destroy my people.</li>
-            <li id="mosiah_19.8" class=""><span class="verse">8</span> And now the king was not so much concerned about his people as he was about his own life; nevertheless, Gideon did spare his life.</li>
-            <li id="mosiah_19.9" class=""><span class="verse">9</span> And the king commanded the people that they should flee before the Lamanites, and he himself did go before them, and they did flee into the wilderness, with their women and their children.</li>
-            <li id="mosiah_19.10" class=""><span class="verse">10</span> And it came to pass that the Lamanites did pursue them, and did overtake them, and began to slay them.</li>
-            <li id="mosiah_19.11" class=""><span class="verse">11</span> Now it came to pass that the king commanded them that all the men should leave their wives and their children, and flee before the Lamanites.</li>
-            <li id="mosiah_19.12" class=""><span class="verse">12</span> Now there were many that would not leave them, but had rather stay and perish with them.  And the rest left their wives and their children and fled.</li>
-            <li id="mosiah_19.13" class=""><span class="verse">13</span> And it came to pass that those who tarried with their wives and their children caused that their fair daughters should stand forth and plead with the Lamanites that they would not slay them.</li>
-            <li id="mosiah_19.14" class=""><span class="verse">14</span> And it came to pass that the Lamanites had compassion on them, for they were charmed with the beauty of their women.</li>
-            <li id="mosiah_19.15" class=""><span class="verse">15</span> Therefore the Lamanites did spare their lives, and took them captives and carried them back to the land of Nephi, and granted unto them that they might possess the land, under the conditions that they would deliver up king Noah into the hands of the Lamanites, and deliver up their property, even one half of all they possessed, one half of their gold, and their silver, and all their precious things, and thus they should pay tribute to the king of the Lamanites from year to year.</li>
-            <li id="mosiah_19.16" class=""><span class="verse">16</span> And now there was one of the sons of the king among those that were taken captive, whose name was Limhi.</li>
-            <li id="mosiah_19.17" class=""><span class="verse">17</span> And now Limhi was desirous that his father should not be destroyed; nevertheless, Limhi was not ignorant of the iniquities of his father, he himself being a just man.</li>
-            <li id="mosiah_19.18" class=""><span class="verse">18</span> And it came to pass that Gideon sent men into the wilderness secretly, to search for the king and those that were with him. And it came to pass that they met the people in the wilderness, all save the king and his priests.</li>
-            <li id="mosiah_19.19" class=""><span class="verse">19</span> Now they had sworn in their hearts that they would return to the land of Nephi, and if their wives and their children were slain, and also those that had tarried with them, that they would seek revenge, and also perish with them.</li>
-            <li id="mosiah_19.20" class=""><span class="verse">20</span> And the king commanded them that they should not return; and they were angry with the king, and caused that he should suffer, even unto death by fire.</li>
-            <li id="mosiah_19.21" class=""><span class="verse">21</span> And they were about to take the priests also and put them to death, and they fled before them.</li>
-            <li id="mosiah_19.22" class=""><span class="verse">22</span> And it came to pass that they were about to return to the land of Nephi, and they met the men of Gideon.  And the men of Gideon told them of all that had happened to their wives and their children; and that the Lamanites had granted unto them that they might possess the land by paying a tribute to the Lamanites of one half of all they possessed.</li>
-            <li id="mosiah_19.23" class=""><span class="verse">23</span> And the people told the men of Gideon that they had slain the king, and his priests had fled from them farther into the wilderness.</li>
-            <li id="mosiah_19.24" class=""><span class="verse">24</span> And it came to pass that after they had ended the ceremony, that they returned to the land of Nephi, rejoicing, because their wives and their children were not slain; and they told Gideon what they had done to the king.</li>
-            <li id="mosiah_19.25" class=""><span class="verse">25</span> And it came to pass that the king of the Lamanites made an oath unto them, that his people should not slay them.</li>
-            <li id="mosiah_19.26" class=""><span class="verse">26</span> And also Limhi, being the son of the king, having the kingdom conferred upon him by the people, made oath unto the king of the Lamanites that his people should pay tribute unto him, even one half of all they possessed.</li>
-            <li id="mosiah_19.27" class=""><span class="verse">27</span> And it came to pass that Limhi began to establish the kingdom and to establish peace among his people.</li>
-            <li id="mosiah_19.28" class=""><span class="verse">28</span> And the king of the Lamanites set guards round about the land, that he might keep the people of Limhi in the land, that they might not depart into the wilderness; and he did support his guards out of the tribute which he did receive from the Nephites.</li>
-            <li id="mosiah_19.29" class=""><span class="verse">29</span> And now king Limhi did have continual peace in his kingdom for the space of two years, that the Lamanites did not molest them nor seek to destroy them.</li>
-        </ul>
-    </div>]]></content:encoded>
-</item><item>
-<title>Mosiah 18</title>
-<link>https://scriptures.byu.edu/scriptures/scriptures_ajax/212/18</link>
-<dc:creator><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></dc:creator>
-<pubDate>Mon May 20 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</pubDate>
-<category><![CDATA[Come, Follow Me]]></category>
-<category><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></category>
-<category><![CDATA[The Book of Mormon]]></category>
-<category><![CDATA[Gospel Study]]></category>
-<guid isPermaLink="false">https://scriptures.byu.edu/scriptures/scriptures_ajax/212/18</guid>
-<description><![CDATA[Come, Follow Me 2024 - Mosiah 18]]></description>
-<content:encoded><![CDATA[<div class="nano-content">
-        <div class="chapterheading"/>
-        <div class="navheading">CHAPTER 18</div>
-        <ul class="versesblock">
-            <li id="mosiah_18.1" class=""><span class="verse">1</span> And now, it came to pass that Alma, who had fled from the servants of king Noah, repented of his sins and iniquities, and went about privately among the people, and began to teach the words of Abinadi&#x2014;</li>
-            <li id="mosiah_18.2" class=""><span class="verse">2</span> Yea, concerning that which was to come, and also concerning the resurrection of the dead, and the redemption of the people, which was to be brought to pass through the power, and sufferings, and death of Christ, and his resurrection and ascension into heaven.</li>
-            <li id="mosiah_18.3" class=""><span class="verse">3</span> And as many as would hear his word he did teach.  And he taught them privately, that it might not come to the knowledge of the king.  And many did believe his words.</li>
-            <li id="mosiah_18.4" class=""><span class="verse">4</span> And it came to pass that as many as did believe him did go forth to a place which was called Mormon, having received its name from the king, being in the borders of the land having been infested, by times or at seasons, by wild beasts.</li>
-            <li id="mosiah_18.5" class=""><span class="verse">5</span> Now, there was in Mormon a fountain of pure water, and Alma resorted thither, there being near the water a thicket of small trees, where he did hide himself in the daytime from the searches of the king.</li>
-            <li id="mosiah_18.6" class=""><span class="verse">6</span> And it came to pass that as many as believed him went thither to hear his words.</li>
-            <li id="mosiah_18.7" class=""><span class="verse">7</span> And it came to pass after many days there were a goodly number gathered together at the place of Mormon, to hear the words of Alma.  Yea, all were gathered together that believed on his word, to hear him.  And he did teach them, and did preach unto them repentance, and redemption, and faith on the Lord.</li>
-            <li id="mosiah_18.8" class=""><span class="verse">8</span> And it came to pass that he said unto them: Behold, here are the waters of Mormon (for thus were they called) and now, as ye are desirous to come into the fold of God, and to be called his people, and are willing to bear one another&#x2019;s burdens, that they may be light;</li>
-            <li id="mosiah_18.9" class=""><span class="verse">9</span> Yea, and are willing to mourn with those that mourn; yea, and comfort those that stand in need of comfort, and to stand as witnesses of God at all times and in all things, and in all places that ye may be in, even until death, that ye may be redeemed of God, and be numbered with those of the first resurrection, that ye may have eternal life&#x2014;</li>
-            <li id="mosiah_18.10" class=""><span class="verse">10</span> Now I say unto you, if this be the desire of your hearts, what have you against being baptized in the name of the Lord, as a witness before him that ye have entered into a covenant with him, that ye will serve him and keep his commandments, that he may pour out his Spirit more abundantly upon you?</li>
-            <li id="mosiah_18.11" class=""><span class="verse">11</span> And now when the people had heard these words, they clapped their hands for joy, and exclaimed: This is the desire of our hearts.</li>
-            <li id="mosiah_18.12" class=""><span class="verse">12</span> And now it came to pass that Alma took Helam, he being one of the first, and went and stood forth in the water, and cried, saying: O Lord, pour out thy Spirit upon thy servant, that he may do this work with holiness of heart.</li>
-            <li id="mosiah_18.13" class=""><span class="verse">13</span> And when he had said these words, the Spirit of the Lord was upon him, and he said: Helam, I baptize thee, having authority from the Almighty God, as a testimony that ye have entered into a covenant to serve him until you are dead as to the mortal body; and may the Spirit of the Lord be poured out upon you; and may he grant unto you eternal life, through the redemption of Christ, whom he has prepared from the foundation of the world.</li>
-            <li id="mosiah_18.14" class=""><span class="verse">14</span> And after Alma had said these words, both Alma and Helam were buried in the water; and they arose and came forth out of the water rejoicing, being filled with the Spirit.</li>
-            <li id="mosiah_18.15" class=""><span class="verse">15</span> And again, Alma took another, and went forth a second time into the water, and baptized him according to the first, only he did not bury himself again in the water.</li>
-            <li id="mosiah_18.16" class=""><span class="verse">16</span> And after this manner he did baptize every one that went forth to the place of Mormon; and they were in number about two hundred and four souls; yea, and they were baptized in the waters of Mormon, and were filled with the grace of God.</li>
-            <li id="mosiah_18.17" class=""><span class="verse">17</span> And they were called the church of God, or the church of Christ, from that time forward.  And it came to pass that whosoever was baptized by the power and authority of God was added to his church.</li>
-            <li id="mosiah_18.18" class=""><span class="verse">18</span> And it came to pass that Alma, having authority from God, ordained priests; even one priest to every fifty of their number did he ordain to preach unto them, and to teach them concerning the things pertaining to the kingdom of God.</li>
-            <li id="mosiah_18.19" class=""><span class="verse">19</span> And he commanded them that they should teach nothing save it were the things which he had taught, and which had been spoken by the mouth of the holy prophets.</li>
-            <li id="mosiah_18.20" class=""><span class="verse">20</span> Yea, even he commanded them that they should preach nothing save it were repentance and faith on the Lord, who had redeemed his people.</li>
-            <li id="mosiah_18.21" class=""><span class="verse">21</span> And he commanded them that there should be no contention one with another, but that they should look forward with one eye, having one faith and one baptism, having their hearts knit together in unity and in love one towards another.</li>
-            <li id="mosiah_18.22" class=""><span class="verse">22</span> And thus he commanded them to preach.  And thus they became the children of God.</li>
-            <li id="mosiah_18.23" class=""><span class="verse">23</span> And he commanded them that they should observe the sabbath day, and keep it holy, and also every day they should give thanks to the Lord their God.</li>
-            <li id="mosiah_18.24" class=""><span class="verse">24</span> And he also commanded them that the priests whom he had ordained should labor with their own hands for their support.</li>
-            <li id="mosiah_18.25" class=""><span class="verse">25</span> And there was one day in every week that was set apart that they should gather themselves together to teach the people, and to worship the Lord their God, and also, as often as it was in their power, to assemble themselves together.</li>
-            <li id="mosiah_18.26" class=""><span class="verse">26</span> And the priests were not to depend upon the people for their support; but for their labor they were to receive the grace of God, that they might wax strong in the Spirit, having the knowledge of God, that they might teach with power and authority from God.</li>
-            <li id="mosiah_18.27" class=""><span class="verse">27</span> And again Alma commanded that the people of the church should impart of their substance, every one according to that which he had; if he have more abundantly he should impart more abundantly; and of him that had but little, but little should be required; and to him that had not should be given.</li>
-            <li id="mosiah_18.28" class=""><span class="verse">28</span> And thus they should impart of their substance of their own free will and good desires towards God, and to those priests that stood in need, yea, and to every needy, naked soul.</li>
-            <li id="mosiah_18.29" class=""><span class="verse">29</span> And this he said unto them, having been commanded of God; and they did walk uprightly before God, imparting to one another both temporally and spiritually according to their needs and their wants.</li>
-            <li id="mosiah_18.30" class=""><span class="verse">30</span> And now it came to pass that all this was done in Mormon, yea, by the waters of Mormon, in the forest that was near the waters of Mormon; yea, the place of Mormon, the waters of Mormon, the forest of Mormon, how beautiful are they to the eyes of them who there came to the knowledge of their Redeemer; yea, and how blessed are they, for they shall sing to his praise forever.</li>
-            <li id="mosiah_18.31" class=""><span class="verse">31</span> And these things were done in the borders of the land, that they might not come to the knowledge of the king.</li>
-            <li id="mosiah_18.32" class=""><span class="verse">32</span> But behold, it came to pass that the king, having discovered a movement among the people, sent his servants to watch them. Therefore on the day that they were assembling themselves together to hear the word of the Lord they were discovered unto the king.</li>
-            <li id="mosiah_18.33" class=""><span class="verse">33</span> And now the king said that Alma was stirring up the people to rebellion against him; therefore he sent his army to destroy them.</li>
-            <li id="mosiah_18.34" class=""><span class="verse">34</span> And it came to pass that Alma and the people of the Lord were apprised of the coming of the king&#x2019;s army; therefore they took their tents and their families and departed into the wilderness.</li>
-            <li id="mosiah_18.35" class=""><span class="verse">35</span> And they were in number about four hundred and fifty souls.</li>
-        </ul>
-    </div>]]></content:encoded>
-</item><item>
-<title>Mosiah 20</title>
-<link>https://scriptures.byu.edu/scriptures/scriptures_ajax/212/20</link>
-<dc:creator><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></dc:creator>
-<pubDate>Tue May 21 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</pubDate>
-<category><![CDATA[Come, Follow Me]]></category>
-<category><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></category>
-<category><![CDATA[The Book of Mormon]]></category>
-<category><![CDATA[Gospel Study]]></category>
-<guid isPermaLink="false">https://scriptures.byu.edu/scriptures/scriptures_ajax/212/20</guid>
-<description><![CDATA[Come, Follow Me 2024 - Mosiah 20]]></description>
-<content:encoded><![CDATA[<div class="nano-content">
-        <div class="chapterheading"/>
-        <div class="navheading">CHAPTER 20</div>
-        <ul class="versesblock">
-            <li id="mosiah_20.1" class=""><span class="verse">1</span> Now there was a place in Shemlon where the daughters of the Lamanites did gather themselves together to sing, and to dance, and to make themselves merry.</li>
-            <li id="mosiah_20.2" class=""><span class="verse">2</span> And it came to pass that there was one day a small number of them gathered together to sing and to dance.</li>
-            <li id="mosiah_20.3" class=""><span class="verse">3</span> And now the priests of king Noah, being ashamed to return to the city of Nephi, yea, and also fearing that the people would slay them, therefore they durst not return to their wives and their children.</li>
-            <li id="mosiah_20.4" class=""><span class="verse">4</span> And having tarried in the wilderness, and having discovered the daughters of the Lamanites, they laid and watched them;</li>
-            <li id="mosiah_20.5" class=""><span class="verse">5</span> And when there were but few of them gathered together to dance, they came forth out of their secret places and took them and carried them into the wilderness; yea, twenty and four of the daughters of the Lamanites they carried into the wilderness.</li>
-            <li id="mosiah_20.6" class=""><span class="verse">6</span> And it came to pass that when the Lamanites found that their daughters had been missing, they were angry with the people of Limhi, for they thought it was the people of Limhi.</li>
-            <li id="mosiah_20.7" class=""><span class="verse">7</span> Therefore they sent their armies forth; yea, even the king himself went before his people; and they went up to the land of Nephi to destroy the people of Limhi.</li>
-            <li id="mosiah_20.8" class=""><span class="verse">8</span> And now Limhi had discovered them from the tower, even all their preparations for war did he discover; therefore he gathered his people together, and laid wait for them in the fields and in the forests.</li>
-            <li id="mosiah_20.9" class=""><span class="verse">9</span> And it came to pass that when the Lamanites had come up, that the people of Limhi began to fall upon them from their waiting places, and began to slay them.</li>
-            <li id="mosiah_20.10" class=""><span class="verse">10</span> And it came to pass that the battle became exceedingly sore, for they fought like lions for their prey.</li>
-            <li id="mosiah_20.11" class=""><span class="verse">11</span> And it came to pass that the people of Limhi began to drive the Lamanites before them; yet they were not half so numerous as the Lamanites.  But they fought for their lives, and for their wives, and for their children; therefore they exerted themselves and like dragons did they fight.</li>
-            <li id="mosiah_20.12" class=""><span class="verse">12</span> And it came to pass that they found the king of the Lamanites among the number of their dead; yet he was not dead, having been wounded and left upon the ground, so speedy was the flight of his people.</li>
-            <li id="mosiah_20.13" class=""><span class="verse">13</span> And they took him and bound up his wounds, and brought him before Limhi, and said: Behold, here is the king of the Lamanites; he having received a wound has fallen among their dead, and they have left him; and behold, we have brought him before you; and now let us slay him.</li>
-            <li id="mosiah_20.14" class=""><span class="verse">14</span> But Limhi said unto them: Ye shall not slay him, but bring him hither that I may see him.  And they brought him.  And Limhi said unto him: What cause have ye to come up to war against my people?  Behold, my people have not broken the oath that I made unto you; therefore, why should ye break the oath which ye made unto my people?</li>
-            <li id="mosiah_20.15" class=""><span class="verse">15</span> And now the king said: I have broken the oath because thy people did carry away the daughters of my people; therefore, in my anger I did cause my people to come up to war against thy people.</li>
-            <li id="mosiah_20.16" class=""><span class="verse">16</span> And now Limhi had heard nothing concerning this matter; therefore he said: I will search among my people and whosoever has done this thing shall perish.  Therefore he caused a search to be made among his people.</li>
-            <li id="mosiah_20.17" class=""><span class="verse">17</span> Now when Gideon had heard these things, he being the king&#x2019;s captain, he went forth and said unto the king: I pray thee forbear, and do not search this people, and lay not this thing to their charge.</li>
-            <li id="mosiah_20.18" class=""><span class="verse">18</span> For do ye not remember the priests of thy father, whom this people sought to destroy?  And are they not in the wilderness?  And are not they the ones who have stolen the daughters of the Lamanites?</li>
-            <li id="mosiah_20.19" class=""><span class="verse">19</span> And now, behold, and tell the king of these things, that he may tell his people that they may be pacified towards us; for behold they are already preparing to come against us; and behold also there are but few of us.</li>
-            <li id="mosiah_20.20" class=""><span class="verse">20</span> And behold, they come with their numerous hosts; and except the king doth pacify them towards us we must perish.</li>
-            <li id="mosiah_20.21" class=""><span class="verse">21</span> For are not the words of Abinadi fulfilled, which he prophesied against us&#x2014;and all this because we would not hearken unto the words of the Lord, and turn from our iniquities?</li>
-            <li id="mosiah_20.22" class=""><span class="verse">22</span> And now let us pacify the king, and we fulfil the oath which we have made unto him; for it is better that we should be in bondage than that we should lose our lives; therefore, let us put a stop to the shedding of so much blood.</li>
-            <li id="mosiah_20.23" class=""><span class="verse">23</span> And now Limhi told the king all the things concerning his father, and the priests that had fled into the wilderness, and attributed the carrying away of their daughters to them.</li>
-            <li id="mosiah_20.24" class=""><span class="verse">24</span> And it came to pass that the king was pacified towards his people; and he said unto them: Let us go forth to meet my people, without arms; and I swear unto you with an oath that my people shall not slay thy people.</li>
-            <li id="mosiah_20.25" class=""><span class="verse">25</span> And it came to pass that they followed the king, and went forth without arms to meet the Lamanites.  And it came to pass that they did meet the Lamanites; and the king of the Lamanites did bow himself down before them, and did plead in behalf of the people of Limhi.</li>
-            <li id="mosiah_20.26" class=""><span class="verse">26</span> And when the Lamanites saw the people of Limhi, that they were without arms, they had compassion on them and were pacified towards them, and returned with their king in peace to their own land.</li>
-        </ul>
-    </div>]]></content:encoded>
-</item><item>
-<title>Mosiah 22</title>
-<link>https://scriptures.byu.edu/scriptures/scriptures_ajax/212/22</link>
-<dc:creator><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></dc:creator>
-<pubDate>Thu May 23 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</pubDate>
-<category><![CDATA[Come, Follow Me]]></category>
-<category><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></category>
-<category><![CDATA[The Book of Mormon]]></category>
-<category><![CDATA[Gospel Study]]></category>
-<guid isPermaLink="false">https://scriptures.byu.edu/scriptures/scriptures_ajax/212/22</guid>
-<description><![CDATA[Come, Follow Me 2024 - Mosiah 22]]></description>
-<content:encoded><![CDATA[<div class="nano-content">
-        <div class="chapterheading"/>
-        <div class="navheading">CHAPTER 22</div>
-        <ul class="versesblock">
-            <li id="mosiah_22.1" class=""><span class="verse">1</span> And now it came to pass that Ammon and king Limhi began to consult with the people how they should deliver themselves out of bondage; and even they did cause that all the people should gather themselves together; and this they did that they might have the voice of the people concerning the matter.</li>
-            <li id="mosiah_22.2" class=""><span class="verse">2</span> And it came to pass that they could find no way to deliver themselves out of bondage, except it were to take their women and children, and their flocks, and their herds, and their tents, and depart into the wilderness; for the Lamanites being so numerous, it was impossible for the people of Limhi to contend with them, thinking to deliver themselves out of bondage by the sword.</li>
-            <li id="mosiah_22.3" class=""><span class="verse">3</span> Now it came to pass that Gideon went forth and stood before the king, and said unto him: Now O king, thou hast hitherto hearkened unto my words many times when we have been contending with our brethren, the Lamanites.</li>
-            <li id="mosiah_22.4" class=""><span class="verse">4</span> And now O king, if thou hast not found me to be an unprofitable servant, or if thou hast hitherto listened to my words in any degree, and they have been of service to thee, even so I desire that thou wouldst listen to my words at this time, and I will be thy servant and deliver this people out of bondage.</li>
-            <li id="mosiah_22.5" class=""><span class="verse">5</span> And the king granted unto him that he might speak.  And Gideon said unto him:</li>
-            <li id="mosiah_22.6" class=""><span class="verse">6</span> Behold the back pass, through the back wall, on the back side of the city.  The Lamanites, or the guards of the Lamanites, by night are drunken; therefore let us send a proclamation among all this people that they gather together their flocks and herds, that they may drive them into the wilderness by night.</li>
-            <li id="mosiah_22.7" class=""><span class="verse">7</span> And I will go according to thy command and pay the last tribute of wine to the Lamanites, and they will be drunken; and we will pass through the secret pass on the left of their camp when they are drunken and asleep.</li>
-            <li id="mosiah_22.8" class=""><span class="verse">8</span> Thus we will depart with our women and our children, our flocks, and our herds into the wilderness; and we will travel around the land of Shilom.</li>
-            <li id="mosiah_22.9" class=""><span class="verse">9</span> And it came to pass that the king hearkened unto the words of Gideon.</li>
-            <li id="mosiah_22.10" class=""><span class="verse">10</span> And king Limhi caused that his people should gather their flocks together; and he sent the tribute of wine to the Lamanites; and he also sent more wine, as a present unto them; and they did drink freely of the wine which king Limhi did send unto them.</li>
-            <li id="mosiah_22.11" class=""><span class="verse">11</span> And it came to pass that the people of king Limhi did depart by night into the wilderness with their flocks and their herds, and they went round about the land of Shilom in the wilderness, and bent their course towards the land of Zarahemla, being led by Ammon and his brethren.</li>
-            <li id="mosiah_22.12" class=""><span class="verse">12</span> And they had taken all their gold, and silver, and their precious things, which they could carry, and also their provisions with them, into the wilderness; and they pursued their journey.</li>
-            <li id="mosiah_22.13" class=""><span class="verse">13</span> And after being many days in the wilderness they arrived in the land of Zarahemla, and joined Mosiah&#x2019;s people, and became his subjects.</li>
-            <li id="mosiah_22.14" class=""><span class="verse">14</span> And it came to pass that Mosiah received them with joy; and he also received their records, and also the records which had been found by the people of Limhi.</li>
-            <li id="mosiah_22.15" class=""><span class="verse">15</span> And now it came to pass when the Lamanites had found that the people of Limhi had departed out of the land by night, that they sent an army into the wilderness to pursue them;</li>
-            <li id="mosiah_22.16" class=""><span class="verse">16</span> And after they had pursued them two days, they could no longer follow their tracks; therefore they were lost in the wilderness.</li>
-        </ul>
-    </div>]]></content:encoded>
-</item><item>
-<title>Mosiah 24</title>
-<link>https://scriptures.byu.edu/scriptures/scriptures_ajax/212/24</link>
-<dc:creator><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></dc:creator>
-<pubDate>Sat May 25 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</pubDate>
-<category><![CDATA[Come, Follow Me]]></category>
-<category><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></category>
-<category><![CDATA[The Book of Mormon]]></category>
-<category><![CDATA[Gospel Study]]></category>
-<guid isPermaLink="false">https://scriptures.byu.edu/scriptures/scriptures_ajax/212/24</guid>
-<description><![CDATA[Come, Follow Me 2024 - Mosiah 24]]></description>
-<content:encoded><![CDATA[<div class="nano-content">
-        <div class="chapterheading"/>
-        <div class="navheading">CHAPTER 24</div>
-        <ul class="versesblock">
-            <li id="mosiah_24.1" class=""><span class="verse">1</span> And it came to pass that Amulon did gain favor in the eyes of the king of the Lamanites; therefore, the king of the Lamanites granted unto him and his brethren that they should be appointed teachers over his people, yea, even over the people who were in the land of Shemlon, and in the land of Shilom, and in the land of Amulon.</li>
-            <li id="mosiah_24.2" class=""><span class="verse">2</span> For the Lamanites had taken possession of all these lands; therefore, the king of the Lamanites had appointed kings over all these lands.</li>
-            <li id="mosiah_24.3" class=""><span class="verse">3</span> And now the name of the king of the Lamanites was Laman, being called after the name of his father; and therefore he was called king Laman.  And he was king over a numerous people.</li>
-            <li id="mosiah_24.4" class=""><span class="verse">4</span> And he appointed teachers of the brethren of Amulon in every land which was possessed by his people; and thus the language of Nephi began to be taught among all the people of the Lamanites.</li>
-            <li id="mosiah_24.5" class=""><span class="verse">5</span> And they were a people friendly one with another; nevertheless they knew not God; neither did the brethren of Amulon teach them anything concerning the Lord their God, neither the law of Moses; nor did they teach them the words of Abinadi;</li>
-            <li id="mosiah_24.6" class=""><span class="verse">6</span> But they taught them that they should keep their record, and that they might write one to another.</li>
-            <li id="mosiah_24.7" class=""><span class="verse">7</span> And thus the Lamanites began to increase in riches, and began to trade one with another and wax great, and began to be a cunning and a wise people, as to the wisdom of the world, yea, a very cunning people, delighting in all manner of wickedness and plunder, except it were among their own brethren.</li>
-            <li id="mosiah_24.8" class=""><span class="verse">8</span> And now it came to pass that Amulon began to exercise authority over Alma and his brethren, and began to persecute him, and cause that his children should persecute their children.</li>
-            <li id="mosiah_24.9" class=""><span class="verse">9</span> For Amulon knew Alma, that he had been one of the king&#x2019;s priests, and that it was he that believed the words of Abinadi and was driven out before the king, and therefore he was wroth with him; for he was subject to king Laman, yet he exercised authority over them, and put tasks upon them, and put task-masters over them.</li>
-            <li id="mosiah_24.10" class=""><span class="verse">10</span> And it came to pass that so great were their afflictions that they began to cry mightily to God.</li>
-            <li id="mosiah_24.11" class=""><span class="verse">11</span> And Amulon commanded them that they should stop their cries; and he put guards over them to watch them, that whosoever should be found calling upon God should be put to death.</li>
-            <li id="mosiah_24.12" class=""><span class="verse">12</span> And Alma and his people did not raise their voices to the Lord their God, but did pour out their hearts to him; and he did know the thoughts of their hearts.</li>
-            <li id="mosiah_24.13" class=""><span class="verse">13</span> And it came to pass that the voice of the Lord came to them in their afflictions, saying: Lift up your heads and be of good comfort, for I know of the covenant which ye have made unto me; and I will covenant with my people and deliver them out of bondage.</li>
-            <li id="mosiah_24.14" class=""><span class="verse">14</span> And I will also ease the burdens which are put upon your shoulders, that even you cannot feel them upon your backs, even while you are in bondage; and this will I do that ye may stand as witnesses for me hereafter, and that ye may know of a surety that I, the Lord God, do visit my people in their afflictions.</li>
-            <li id="mosiah_24.15" class=""><span class="verse">15</span> And now it came to pass that the burdens which were laid upon Alma and his brethren were made light; yea, the Lord did strengthen them that they could bear up their burdens with ease, and they did submit cheerfully and with patience to all the will of the Lord.</li>
-            <li id="mosiah_24.16" class=""><span class="verse">16</span> And it came to pass that so great was their faith and their patience that the voice of the Lord came unto them again, saying: Be of good comfort, for on the morrow I will deliver you out of bondage.</li>
-            <li id="mosiah_24.17" class=""><span class="verse">17</span> And he said unto Alma: Thou shalt go before this people, and I will go with thee and deliver this people out of bondage.</li>
-            <li id="mosiah_24.18" class=""><span class="verse">18</span> Now it came to pass that Alma and his people in the night-time gathered their flocks together, and also of their grain; yea, even all the night-time were they gathering their flocks together.</li>
-            <li id="mosiah_24.19" class=""><span class="verse">19</span> And in the morning the Lord caused a deep sleep to come upon the Lamanites, yea, and all their task-masters were in a profound sleep.</li>
-            <li id="mosiah_24.20" class=""><span class="verse">20</span> And Alma and his people departed into the wilderness; and when they had traveled all day they pitched their tents in a valley, and they called the valley Alma, because he led their way in the wilderness.</li>
-            <li id="mosiah_24.21" class=""><span class="verse">21</span> Yea, and in the valley of Alma they poured out their thanks to God because he had been merciful unto them, and eased their burdens, and had delivered them out of bondage; for they were in bondage, and none could deliver them except it were the Lord their God.</li>
-            <li id="mosiah_24.22" class=""><span class="verse">22</span> And they gave thanks to God, yea, all their men and all their women and all their children that could speak lifted their voices in the praises of their God.</li>
-            <li id="mosiah_24.23" class=""><span class="verse">23</span> And now the Lord said unto Alma: Haste thee and get thou and this people out of this land, for the Lamanites have awakened and do pursue thee; therefore get thee out of this land, and I will stop the Lamanites in this valley that they come no further in pursuit of this people.</li>
-            <li id="mosiah_24.24" class=""><span class="verse">24</span> And it came to pass that they departed out of the valley, and took their journey into the wilderness.</li>
-            <li id="mosiah_24.25" class=""><span class="verse">25</span> And after they had been in the wilderness twelve days they arrived in the land of Zarahemla; and king Mosiah did also receive them with joy.</li>
         </ul>
     </div>]]></content:encoded>
 </item><item>
@@ -481,6 +341,117 @@
         </ul>
     </div>]]></content:encoded>
 </item><item>
+<title>Mosiah 16</title>
+<link>https://scriptures.byu.edu/scriptures/scriptures_ajax/212/16</link>
+<dc:creator><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></dc:creator>
+<pubDate>Sat May 18 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</pubDate>
+<category><![CDATA[Come, Follow Me]]></category>
+<category><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></category>
+<category><![CDATA[The Book of Mormon]]></category>
+<category><![CDATA[Gospel Study]]></category>
+<guid isPermaLink="false">https://scriptures.byu.edu/scriptures/scriptures_ajax/212/16</guid>
+<description><![CDATA[Come, Follow Me 2024 - Mosiah 16]]></description>
+<content:encoded><![CDATA[<div class="nano-content">
+        <div class="chapterheading"/>
+        <div class="navheading">CHAPTER 16</div>
+        <ul class="versesblock">
+            <li id="mosiah_16.1" class=""><span class="verse">1</span> And now, it came to pass that after Abinadi had spoken these words he stretched forth his hand and said: The time shall come when all shall see the salvation of the Lord; when every nation, kindred, tongue, and people shall see eye to eye and shall confess before God that his judgments are just.</li>
+            <li id="mosiah_16.2" class=""><span class="verse">2</span> And then shall the wicked be cast out, and they shall have cause to howl, and weep, and wail, and gnash their teeth; and this because they would not hearken unto the voice of the Lord; therefore the Lord redeemeth them not.</li>
+            <li id="mosiah_16.3" class=""><span class="verse">3</span> For they are carnal and devilish, and the devil has power over them; yea, even that old serpent that did beguile our first parents, which was the cause of their fall; which was the cause of all mankind becoming carnal, sensual, devilish, knowing evil from good, subjecting themselves to the devil.</li>
+            <li id="mosiah_16.4" class=""><span class="verse">4</span> Thus all mankind were lost; and behold, they would have been endlessly lost were it not that God redeemed his people from their lost and fallen state.</li>
+            <li id="mosiah_16.5" class=""><span class="verse">5</span> But remember that he that persists in his own carnal nature, and goes on in the ways of sin and rebellion against God, remaineth in his fallen state and the devil hath all power over him.  Therefore he is as though there was no redemption made, being an enemy to God; and also is the devil an enemy to God.</li>
+            <li id="mosiah_16.6" class=""><span class="verse">6</span> And now if Christ had not come into the world, speaking of things to come as though they had already come, there could have been no redemption.</li>
+            <li id="mosiah_16.7" class=""><span class="verse">7</span> And if Christ had not risen from the dead, or have broken the bands of death that the grave should have no victory, and that death should have no sting, there could have been no resurrection.</li>
+            <li id="mosiah_16.8" class=""><span class="verse">8</span> But there is a resurrection, therefore the grave hath no victory, and the sting of death is swallowed up in Christ.</li>
+            <li id="mosiah_16.9" class=""><span class="verse">9</span> He is the light and the life of the world; yea, a light that is endless, that can never be darkened; yea, and also a life which is endless, that there can be no more death.</li>
+            <li id="mosiah_16.10" class=""><span class="verse">10</span> Even this mortal shall put on immortality, and this corruption shall put on incorruption, and shall be brought to stand before the bar of God, to be judged of him according to their works whether they be good or whether they be evil&#x2014;</li>
+            <li id="mosiah_16.11" class=""><span class="verse">11</span> If they be good, to the resurrection of endless life and happiness; and if they be evil, to the resurrection of endless damnation, being delivered up to the devil, who hath subjected them, which is damnation&#x2014;</li>
+            <li id="mosiah_16.12" class=""><span class="verse">12</span> Having gone according to their own carnal wills and desires; having never called upon the Lord while the arms of mercy were extended towards them; for the arms of mercy were extended towards them, and they would not; they being warned of their iniquities and yet they would not depart from them; and they were commanded to repent and yet they would not repent.</li>
+            <li id="mosiah_16.13" class=""><span class="verse">13</span> And now, ought ye not to tremble and repent of your sins, and remember that only in and through Christ ye can be saved?</li>
+            <li id="mosiah_16.14" class=""><span class="verse">14</span> Therefore, if ye teach the law of Moses, also teach that it is a shadow of those things which are to come&#x2014;</li>
+            <li id="mosiah_16.15" class=""><span class="verse">15</span> Teach them that redemption cometh through Christ the Lord, who is the very Eternal Father.  Amen.</li>
+        </ul>
+    </div>]]></content:encoded>
+</item><item>
+<title>Mosiah 17</title>
+<link>https://scriptures.byu.edu/scriptures/scriptures_ajax/212/17</link>
+<dc:creator><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></dc:creator>
+<pubDate>Sun May 19 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</pubDate>
+<category><![CDATA[Come, Follow Me]]></category>
+<category><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></category>
+<category><![CDATA[The Book of Mormon]]></category>
+<category><![CDATA[Gospel Study]]></category>
+<guid isPermaLink="false">https://scriptures.byu.edu/scriptures/scriptures_ajax/212/17</guid>
+<description><![CDATA[Come, Follow Me 2024 - Mosiah 17]]></description>
+<content:encoded><![CDATA[<div class="nano-content">
+        <div class="chapterheading"/>
+        <div class="navheading">CHAPTER 17</div>
+        <ul class="versesblock">
+            <li id="mosiah_17.1" class=""><span class="verse">1</span> And now it came to pass that when Abinadi had finished these sayings, that the king commanded that the priests should take him and cause that he should be put to death.</li>
+            <li id="mosiah_17.2" class=""><span class="verse">2</span> But there was one among them whose name was Alma, he also being a descendant of Nephi.  And he was a young man, and he believed the words which Abinadi had spoken, for he knew concerning the iniquity which Abinadi had testified against them; therefore he began to plead with the king that he would not be angry with Abinadi, but suffer that he might depart in peace.</li>
+            <li id="mosiah_17.3" class=""><span class="verse">3</span> But the king was more wroth, and caused that Alma should be cast out from among them, and sent his servants after him that they might slay him.</li>
+            <li id="mosiah_17.4" class=""><span class="verse">4</span> But he fled from before them and hid himself that they found him not.  And he being concealed for many days did write all the words which Abinadi had spoken.</li>
+            <li id="mosiah_17.5" class=""><span class="verse">5</span> And it came to pass that the king caused that his guards should surround Abinadi and take him; and they bound him and cast him into prison.</li>
+            <li id="mosiah_17.6" class=""><span class="verse">6</span> And after three days, having counseled with his priests, he caused that he should again be brought before him.</li>
+            <li id="mosiah_17.7" class=""><span class="verse">7</span> And he said unto him: Abinadi, we have found an accusation against thee, and thou art worthy of death.</li>
+            <li id="mosiah_17.8" class=""><span class="verse">8</span> For thou hast said that God himself should come down among the children of men; and now, for this cause thou shalt be put to death unless thou wilt recall all the words which thou hast spoken evil concerning me and my people.</li>
+            <li id="mosiah_17.9" class=""><span class="verse">9</span> Now Abinadi said unto him: I say unto you, I will not recall the words which I have spoken unto you concerning this people, for they are true; and that ye may know of their surety I have suffered myself that I have fallen into your hands.</li>
+            <li id="mosiah_17.10" class=""><span class="verse">10</span> Yea, and I will suffer even until death, and I will not recall my words, and they shall stand as a testimony against you.  And if ye slay me ye will shed innocent blood, and this shall also stand as a testimony against you at the last day.</li>
+            <li id="mosiah_17.11" class=""><span class="verse">11</span> And now king Noah was about to release him, for he feared his word; for he feared that the judgments of God would come upon him.</li>
+            <li id="mosiah_17.12" class=""><span class="verse">12</span> But the priests lifted up their voices against him, and began to accuse him, saying: He has reviled the king.  Therefore the king was stirred up in anger against him, and he delivered him up that he might be slain.</li>
+            <li id="mosiah_17.13" class=""><span class="verse">13</span> And it came to pass that they took him and bound him, and scourged his skin with faggots, yea, even unto death.</li>
+            <li id="mosiah_17.14" class=""><span class="verse">14</span> And now when the flames began to scorch him, he cried unto them, saying:</li>
+            <li id="mosiah_17.15" class=""><span class="verse">15</span> Behold, even as ye have done unto me, so shall it come to pass that thy seed shall cause that many shall suffer the pains that I do suffer, even the pains of death by fire; and this because they believe in the salvation of the Lord their God.</li>
+            <li id="mosiah_17.16" class=""><span class="verse">16</span> And it will come to pass that ye shall be afflicted with all manner of diseases because of your iniquities.</li>
+            <li id="mosiah_17.17" class=""><span class="verse">17</span> Yea, and ye shall be smitten on every hand, and shall be driven and scattered to and fro, even as a wild flock is driven by wild and ferocious beasts.</li>
+            <li id="mosiah_17.18" class=""><span class="verse">18</span> And in that day ye shall be hunted, and ye shall be taken by the hand of your enemies, and then ye shall suffer, as I suffer, the pains of death by fire.</li>
+            <li id="mosiah_17.19" class=""><span class="verse">19</span> Thus God executeth vengeance upon those that destroy his people.  O God, receive my soul.</li>
+            <li id="mosiah_17.20" class=""><span class="verse">20</span> And now, when Abinadi had said these words, he fell, having suffered death by fire; yea, having been put to death because he would not deny the commandments of God, having sealed the truth of his words by his death.</li>
+        </ul>
+    </div>]]></content:encoded>
+</item><item>
+<title>Mosiah 24</title>
+<link>https://scriptures.byu.edu/scriptures/scriptures_ajax/212/24</link>
+<dc:creator><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></dc:creator>
+<pubDate>Sat May 25 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</pubDate>
+<category><![CDATA[Come, Follow Me]]></category>
+<category><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></category>
+<category><![CDATA[The Book of Mormon]]></category>
+<category><![CDATA[Gospel Study]]></category>
+<guid isPermaLink="false">https://scriptures.byu.edu/scriptures/scriptures_ajax/212/24</guid>
+<description><![CDATA[Come, Follow Me 2024 - Mosiah 24]]></description>
+<content:encoded><![CDATA[<div class="nano-content">
+        <div class="chapterheading"/>
+        <div class="navheading">CHAPTER 24</div>
+        <ul class="versesblock">
+            <li id="mosiah_24.1" class=""><span class="verse">1</span> And it came to pass that Amulon did gain favor in the eyes of the king of the Lamanites; therefore, the king of the Lamanites granted unto him and his brethren that they should be appointed teachers over his people, yea, even over the people who were in the land of Shemlon, and in the land of Shilom, and in the land of Amulon.</li>
+            <li id="mosiah_24.2" class=""><span class="verse">2</span> For the Lamanites had taken possession of all these lands; therefore, the king of the Lamanites had appointed kings over all these lands.</li>
+            <li id="mosiah_24.3" class=""><span class="verse">3</span> And now the name of the king of the Lamanites was Laman, being called after the name of his father; and therefore he was called king Laman.  And he was king over a numerous people.</li>
+            <li id="mosiah_24.4" class=""><span class="verse">4</span> And he appointed teachers of the brethren of Amulon in every land which was possessed by his people; and thus the language of Nephi began to be taught among all the people of the Lamanites.</li>
+            <li id="mosiah_24.5" class=""><span class="verse">5</span> And they were a people friendly one with another; nevertheless they knew not God; neither did the brethren of Amulon teach them anything concerning the Lord their God, neither the law of Moses; nor did they teach them the words of Abinadi;</li>
+            <li id="mosiah_24.6" class=""><span class="verse">6</span> But they taught them that they should keep their record, and that they might write one to another.</li>
+            <li id="mosiah_24.7" class=""><span class="verse">7</span> And thus the Lamanites began to increase in riches, and began to trade one with another and wax great, and began to be a cunning and a wise people, as to the wisdom of the world, yea, a very cunning people, delighting in all manner of wickedness and plunder, except it were among their own brethren.</li>
+            <li id="mosiah_24.8" class=""><span class="verse">8</span> And now it came to pass that Amulon began to exercise authority over Alma and his brethren, and began to persecute him, and cause that his children should persecute their children.</li>
+            <li id="mosiah_24.9" class=""><span class="verse">9</span> For Amulon knew Alma, that he had been one of the king&#x2019;s priests, and that it was he that believed the words of Abinadi and was driven out before the king, and therefore he was wroth with him; for he was subject to king Laman, yet he exercised authority over them, and put tasks upon them, and put task-masters over them.</li>
+            <li id="mosiah_24.10" class=""><span class="verse">10</span> And it came to pass that so great were their afflictions that they began to cry mightily to God.</li>
+            <li id="mosiah_24.11" class=""><span class="verse">11</span> And Amulon commanded them that they should stop their cries; and he put guards over them to watch them, that whosoever should be found calling upon God should be put to death.</li>
+            <li id="mosiah_24.12" class=""><span class="verse">12</span> And Alma and his people did not raise their voices to the Lord their God, but did pour out their hearts to him; and he did know the thoughts of their hearts.</li>
+            <li id="mosiah_24.13" class=""><span class="verse">13</span> And it came to pass that the voice of the Lord came to them in their afflictions, saying: Lift up your heads and be of good comfort, for I know of the covenant which ye have made unto me; and I will covenant with my people and deliver them out of bondage.</li>
+            <li id="mosiah_24.14" class=""><span class="verse">14</span> And I will also ease the burdens which are put upon your shoulders, that even you cannot feel them upon your backs, even while you are in bondage; and this will I do that ye may stand as witnesses for me hereafter, and that ye may know of a surety that I, the Lord God, do visit my people in their afflictions.</li>
+            <li id="mosiah_24.15" class=""><span class="verse">15</span> And now it came to pass that the burdens which were laid upon Alma and his brethren were made light; yea, the Lord did strengthen them that they could bear up their burdens with ease, and they did submit cheerfully and with patience to all the will of the Lord.</li>
+            <li id="mosiah_24.16" class=""><span class="verse">16</span> And it came to pass that so great was their faith and their patience that the voice of the Lord came unto them again, saying: Be of good comfort, for on the morrow I will deliver you out of bondage.</li>
+            <li id="mosiah_24.17" class=""><span class="verse">17</span> And he said unto Alma: Thou shalt go before this people, and I will go with thee and deliver this people out of bondage.</li>
+            <li id="mosiah_24.18" class=""><span class="verse">18</span> Now it came to pass that Alma and his people in the night-time gathered their flocks together, and also of their grain; yea, even all the night-time were they gathering their flocks together.</li>
+            <li id="mosiah_24.19" class=""><span class="verse">19</span> And in the morning the Lord caused a deep sleep to come upon the Lamanites, yea, and all their task-masters were in a profound sleep.</li>
+            <li id="mosiah_24.20" class=""><span class="verse">20</span> And Alma and his people departed into the wilderness; and when they had traveled all day they pitched their tents in a valley, and they called the valley Alma, because he led their way in the wilderness.</li>
+            <li id="mosiah_24.21" class=""><span class="verse">21</span> Yea, and in the valley of Alma they poured out their thanks to God because he had been merciful unto them, and eased their burdens, and had delivered them out of bondage; for they were in bondage, and none could deliver them except it were the Lord their God.</li>
+            <li id="mosiah_24.22" class=""><span class="verse">22</span> And they gave thanks to God, yea, all their men and all their women and all their children that could speak lifted their voices in the praises of their God.</li>
+            <li id="mosiah_24.23" class=""><span class="verse">23</span> And now the Lord said unto Alma: Haste thee and get thou and this people out of this land, for the Lamanites have awakened and do pursue thee; therefore get thee out of this land, and I will stop the Lamanites in this valley that they come no further in pursuit of this people.</li>
+            <li id="mosiah_24.24" class=""><span class="verse">24</span> And it came to pass that they departed out of the valley, and took their journey into the wilderness.</li>
+            <li id="mosiah_24.25" class=""><span class="verse">25</span> And after they had been in the wilderness twelve days they arrived in the land of Zarahemla; and king Mosiah did also receive them with joy.</li>
+        </ul>
+    </div>]]></content:encoded>
+</item><item>
 <title>Mosiah 25</title>
 <link>https://scriptures.byu.edu/scriptures/scriptures_ajax/212/25</link>
 <dc:creator><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></dc:creator>
@@ -519,6 +490,43 @@
             <li id="mosiah_25.22" class=""><span class="verse">22</span> And thus, notwithstanding there being many churches they were all one church, yea, even the church of God; for there was nothing preached in all the churches except it were repentance and faith in God.</li>
             <li id="mosiah_25.23" class=""><span class="verse">23</span> And now there were seven churches in the land of Zarahemla. And it came to pass that whosoever were desirous to take upon them the name of Christ, or of God, they did join the churches of God;</li>
             <li id="mosiah_25.24" class=""><span class="verse">24</span> And they were called the people of God.  And the Lord did pour out his Spirit upon them, and they were blessed, and prospered in the land.</li>
+        </ul>
+    </div>]]></content:encoded>
+</item><item>
+<title>Mosiah 28</title>
+<link>https://scriptures.byu.edu/scriptures/scriptures_ajax/212/28</link>
+<dc:creator><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></dc:creator>
+<pubDate>Thu May 30 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</pubDate>
+<category><![CDATA[Come, Follow Me]]></category>
+<category><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></category>
+<category><![CDATA[The Book of Mormon]]></category>
+<category><![CDATA[Gospel Study]]></category>
+<guid isPermaLink="false">https://scriptures.byu.edu/scriptures/scriptures_ajax/212/28</guid>
+<description><![CDATA[Come, Follow Me 2024 - Mosiah 28]]></description>
+<content:encoded><![CDATA[<div class="nano-content">
+        <div class="chapterheading"/>
+        <div class="navheading">CHAPTER 28</div>
+        <ul class="versesblock">
+            <li id="mosiah_28.1" class=""><span class="verse">1</span> Now it came to pass that after the sons of Mosiah had done all these things, they took a small number with them and returned to their father, the king, and desired of him that he would grant unto them that they might, with these whom they had selected, go up to the land of Nephi that they might preach the things which they had heard, and that they might impart the word of God to their brethren, the Lamanites&#x2014;</li>
+            <li id="mosiah_28.2" class=""><span class="verse">2</span> That perhaps they might bring them to the knowledge of the Lord their God, and convince them of the iniquity of their fathers; and that perhaps they might cure them of their hatred towards the Nephites, that they might also be brought to rejoice in the Lord their God, that they might become friendly to one another, and that there should be no more contentions in all the land which the Lord their God had given them.</li>
+            <li id="mosiah_28.3" class=""><span class="verse">3</span> Now they were desirous that salvation should be declared to every creature, for they could not bear that any human soul should perish; yea, even the very thoughts that any soul should endure endless torment did cause them to quake and tremble.</li>
+            <li id="mosiah_28.4" class=""><span class="verse">4</span> And thus did the Spirit of the Lord work upon them, for they were the very vilest of sinners.  And the Lord saw fit in his infinite mercy to spare them; nevertheless they suffered much anguish of soul because of their iniquities, suffering much and fearing that they should be cast off forever.</li>
+            <li id="mosiah_28.5" class=""><span class="verse">5</span> And it came to pass that they did plead with their father many days that they might go up to the land of Nephi.</li>
+            <li id="mosiah_28.6" class=""><span class="verse">6</span> And king Mosiah went and inquired of the Lord if he should let his sons go up among the Lamanites to preach the word.</li>
+            <li id="mosiah_28.7" class=""><span class="verse">7</span> And the Lord said unto Mosiah: Let them go up, for many shall believe on their words, and they shall have eternal life; and I will deliver thy sons out of the hands of the Lamanites.</li>
+            <li id="mosiah_28.8" class=""><span class="verse">8</span> And it came to pass that Mosiah granted that they might go and do according to their request.</li>
+            <li id="mosiah_28.9" class=""><span class="verse">9</span> And they took their journey into the wilderness to go up to preach the word among the Lamanites; and I shall give an account of their proceedings hereafter.</li>
+            <li id="mosiah_28.10" class=""><span class="verse">10</span> Now king Mosiah had no one to confer the kingdom upon, for there was not any of his sons who would accept of the kingdom.</li>
+            <li id="mosiah_28.11" class=""><span class="verse">11</span> Therefore he took the records which were engraven on the plates of brass, and also the plates of Nephi, and all the things which he had kept and preserved according to the commandments of God, after having translated and caused to be written the records which were on the plates of gold which had been found by the people of Limhi, which were delivered to him by the hand of Limhi;</li>
+            <li id="mosiah_28.12" class=""><span class="verse">12</span> And this he did because of the great anxiety of his people; for they were desirous beyond measure to know concerning those people who had been destroyed.</li>
+            <li id="mosiah_28.13" class=""><span class="verse">13</span> And now he translated them by the means of those two stones which were fastened into the two rims of a bow.</li>
+            <li id="mosiah_28.14" class=""><span class="verse">14</span> Now these things were prepared from the beginning, and were handed down from generation to generation, for the purpose of interpreting languages;</li>
+            <li id="mosiah_28.15" class=""><span class="verse">15</span> And they have been kept and preserved by the hand of the Lord, that he should discover to every creature who should possess the land the iniquities and abominations of his people;</li>
+            <li id="mosiah_28.16" class=""><span class="verse">16</span> And whosoever has these things is called seer, after the manner of old times.</li>
+            <li id="mosiah_28.17" class=""><span class="verse">17</span> Now after Mosiah had finished translating these records, behold, it gave an account of the people who were destroyed, from the time that they were destroyed back to the building of the great tower, at the time the Lord confounded the language of the people and they were scattered abroad upon the face of all the earth, yea, and even from that time back until the creation of Adam.</li>
+            <li id="mosiah_28.18" class=""><span class="verse">18</span> Now this account did cause the people of Mosiah to mourn exceedingly, yea, they were filled with sorrow; nevertheless it gave them much knowledge, in the which they did rejoice.</li>
+            <li id="mosiah_28.19" class=""><span class="verse">19</span> And this account shall be written hereafter; for behold, it is expedient that all people should know the things which are written in this account.</li>
+            <li id="mosiah_28.20" class=""><span class="verse">20</span> And now, as I said unto you, that after king Mosiah had done these things, he took the plates of brass, and all the things which he had kept, and conferred them upon Alma, who was the son of Alma; yea, all the records, and also the interpreters, and conferred them upon him, and commanded him that he should keep and preserve them, and also keep a record of the people, handing them down from one generation to another, even as they had been handed down from the time that Lehi left Jerusalem.</li>
         </ul>
     </div>]]></content:encoded>
 </item><item>
@@ -629,43 +637,6 @@
             <li id="mosiah_27.35" class=""><span class="verse">35</span> And they traveled throughout all the land of Zarahemla, and among all the people who were under the reign of king Mosiah, zealously striving to repair all the injuries which they had done to the church, confessing all their sins, and publishing all the things which they had seen, and explaining the prophecies and the scriptures to all who desired to hear them.</li>
             <li id="mosiah_27.36" class=""><span class="verse">36</span> And thus they were instruments in the hands of God in bringing many to the knowledge of the truth, yea, to the knowledge of their Redeemer.</li>
             <li id="mosiah_27.37" class=""><span class="verse">37</span> And how blessed are they!  For they did publish peace; they did publish good tidings of good; and they did declare unto the people that the Lord reigneth.</li>
-        </ul>
-    </div>]]></content:encoded>
-</item><item>
-<title>Mosiah 28</title>
-<link>https://scriptures.byu.edu/scriptures/scriptures_ajax/212/28</link>
-<dc:creator><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></dc:creator>
-<pubDate>Thu May 30 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</pubDate>
-<category><![CDATA[Come, Follow Me]]></category>
-<category><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></category>
-<category><![CDATA[The Book of Mormon]]></category>
-<category><![CDATA[Gospel Study]]></category>
-<guid isPermaLink="false">https://scriptures.byu.edu/scriptures/scriptures_ajax/212/28</guid>
-<description><![CDATA[Come, Follow Me 2024 - Mosiah 28]]></description>
-<content:encoded><![CDATA[<div class="nano-content">
-        <div class="chapterheading"/>
-        <div class="navheading">CHAPTER 28</div>
-        <ul class="versesblock">
-            <li id="mosiah_28.1" class=""><span class="verse">1</span> Now it came to pass that after the sons of Mosiah had done all these things, they took a small number with them and returned to their father, the king, and desired of him that he would grant unto them that they might, with these whom they had selected, go up to the land of Nephi that they might preach the things which they had heard, and that they might impart the word of God to their brethren, the Lamanites&#x2014;</li>
-            <li id="mosiah_28.2" class=""><span class="verse">2</span> That perhaps they might bring them to the knowledge of the Lord their God, and convince them of the iniquity of their fathers; and that perhaps they might cure them of their hatred towards the Nephites, that they might also be brought to rejoice in the Lord their God, that they might become friendly to one another, and that there should be no more contentions in all the land which the Lord their God had given them.</li>
-            <li id="mosiah_28.3" class=""><span class="verse">3</span> Now they were desirous that salvation should be declared to every creature, for they could not bear that any human soul should perish; yea, even the very thoughts that any soul should endure endless torment did cause them to quake and tremble.</li>
-            <li id="mosiah_28.4" class=""><span class="verse">4</span> And thus did the Spirit of the Lord work upon them, for they were the very vilest of sinners.  And the Lord saw fit in his infinite mercy to spare them; nevertheless they suffered much anguish of soul because of their iniquities, suffering much and fearing that they should be cast off forever.</li>
-            <li id="mosiah_28.5" class=""><span class="verse">5</span> And it came to pass that they did plead with their father many days that they might go up to the land of Nephi.</li>
-            <li id="mosiah_28.6" class=""><span class="verse">6</span> And king Mosiah went and inquired of the Lord if he should let his sons go up among the Lamanites to preach the word.</li>
-            <li id="mosiah_28.7" class=""><span class="verse">7</span> And the Lord said unto Mosiah: Let them go up, for many shall believe on their words, and they shall have eternal life; and I will deliver thy sons out of the hands of the Lamanites.</li>
-            <li id="mosiah_28.8" class=""><span class="verse">8</span> And it came to pass that Mosiah granted that they might go and do according to their request.</li>
-            <li id="mosiah_28.9" class=""><span class="verse">9</span> And they took their journey into the wilderness to go up to preach the word among the Lamanites; and I shall give an account of their proceedings hereafter.</li>
-            <li id="mosiah_28.10" class=""><span class="verse">10</span> Now king Mosiah had no one to confer the kingdom upon, for there was not any of his sons who would accept of the kingdom.</li>
-            <li id="mosiah_28.11" class=""><span class="verse">11</span> Therefore he took the records which were engraven on the plates of brass, and also the plates of Nephi, and all the things which he had kept and preserved according to the commandments of God, after having translated and caused to be written the records which were on the plates of gold which had been found by the people of Limhi, which were delivered to him by the hand of Limhi;</li>
-            <li id="mosiah_28.12" class=""><span class="verse">12</span> And this he did because of the great anxiety of his people; for they were desirous beyond measure to know concerning those people who had been destroyed.</li>
-            <li id="mosiah_28.13" class=""><span class="verse">13</span> And now he translated them by the means of those two stones which were fastened into the two rims of a bow.</li>
-            <li id="mosiah_28.14" class=""><span class="verse">14</span> Now these things were prepared from the beginning, and were handed down from generation to generation, for the purpose of interpreting languages;</li>
-            <li id="mosiah_28.15" class=""><span class="verse">15</span> And they have been kept and preserved by the hand of the Lord, that he should discover to every creature who should possess the land the iniquities and abominations of his people;</li>
-            <li id="mosiah_28.16" class=""><span class="verse">16</span> And whosoever has these things is called seer, after the manner of old times.</li>
-            <li id="mosiah_28.17" class=""><span class="verse">17</span> Now after Mosiah had finished translating these records, behold, it gave an account of the people who were destroyed, from the time that they were destroyed back to the building of the great tower, at the time the Lord confounded the language of the people and they were scattered abroad upon the face of all the earth, yea, and even from that time back until the creation of Adam.</li>
-            <li id="mosiah_28.18" class=""><span class="verse">18</span> Now this account did cause the people of Mosiah to mourn exceedingly, yea, they were filled with sorrow; nevertheless it gave them much knowledge, in the which they did rejoice.</li>
-            <li id="mosiah_28.19" class=""><span class="verse">19</span> And this account shall be written hereafter; for behold, it is expedient that all people should know the things which are written in this account.</li>
-            <li id="mosiah_28.20" class=""><span class="verse">20</span> And now, as I said unto you, that after king Mosiah had done these things, he took the plates of brass, and all the things which he had kept, and conferred them upon Alma, who was the son of Alma; yea, all the records, and also the interpreters, and conferred them upon him, and commanded him that he should keep and preserve them, and also keep a record of the people, handing them down from one generation to another, even as they had been handed down from the time that Lehi left Jerusalem.</li>
         </ul>
     </div>]]></content:encoded>
 </item><item>
@@ -998,6 +969,31 @@
         </ul>
     </div>]]></content:encoded>
 </item><item>
+<title>Alma 6</title>
+<link>https://scriptures.byu.edu/scriptures/scriptures_ajax/213/6</link>
+<dc:creator><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></dc:creator>
+<pubDate>Tue Jun 11 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</pubDate>
+<category><![CDATA[Come, Follow Me]]></category>
+<category><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></category>
+<category><![CDATA[The Book of Mormon]]></category>
+<category><![CDATA[Gospel Study]]></category>
+<guid isPermaLink="false">https://scriptures.byu.edu/scriptures/scriptures_ajax/213/6</guid>
+<description><![CDATA[Come, Follow Me 2024 - Alma 6]]></description>
+<content:encoded><![CDATA[<div class="nano-content">
+        <div class="chapterheading"/>
+        <div class="navheading">CHAPTER 6</div>
+        <ul class="versesblock">
+            <li id="alma_6.1" class=""><span class="verse">1</span> And now it came to pass that after Alma had made an end of speaking unto the people of the church, which was established in the city of Zarahemla, he ordained priests and elders, by laying on his hands according to the order of God, to preside and watch over the church.</li>
+            <li id="alma_6.2" class=""><span class="verse">2</span> And it came to pass that whosoever did not belong to the church who repented of their sins were baptized unto repentance, and were received into the church.</li>
+            <li id="alma_6.3" class=""><span class="verse">3</span> And it also came to pass that whosoever did belong to the church that did not repent of their wickedness and humble themselves before God&#x2014;I mean those who were lifted up in the pride of their hearts&#x2014;the same were rejected, and their names were blotted out, that their names were not numbered among those of the righteous.</li>
+            <li id="alma_6.4" class=""><span class="verse">4</span> And thus they began to establish the order of the church in the city of Zarahemla.</li>
+            <li id="alma_6.5" class=""><span class="verse">5</span> Now I would that ye should understand that the word of God was liberal unto all, that none were deprived of the privilege of assembling themselves together to hear the word of God.</li>
+            <li id="alma_6.6" class=""><span class="verse">6</span> Nevertheless the children of God were commanded that they should gather themselves together oft, and join in fasting and mighty prayer in behalf of the welfare of the souls of those who knew not God.</li>
+            <li id="alma_6.7" class=""><span class="verse">7</span> And now it came to pass that when Alma had made these regulations he departed from them, yea, from the church which was in the city of Zarahemla, and went over upon the east of the river Sidon, into the valley of Gideon, there having been a city built, which was called the city of Gideon, which was in the valley that was called Gideon, being called after the man who was slain by the hand of Nehor with the sword.</li>
+            <li id="alma_6.8" class=""><span class="verse">8</span> And Alma went and began to declare the word of God unto the church which was established in the valley of Gideon, according to the revelation of the truth of the word which had been spoken by his fathers, and according to the spirit of prophecy which was in him, according to the testimony of Jesus Christ, the Son of God, who should come to redeem his people from their sins, and the holy order by which he was called.  And thus it is written.  Amen.</li>
+        </ul>
+    </div>]]></content:encoded>
+</item><item>
 <title>Alma 7</title>
 <link>https://scriptures.byu.edu/scriptures/scriptures_ajax/213/7</link>
 <dc:creator><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></dc:creator>
@@ -1042,30 +1038,157 @@
         </ul>
     </div>]]></content:encoded>
 </item><item>
-<title>Alma 6</title>
-<link>https://scriptures.byu.edu/scriptures/scriptures_ajax/213/6</link>
+<title>June 3–9: “They Were Steadfast and Immovable”</title>
+<link>https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/23?lang=eng</link>
 <dc:creator><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></dc:creator>
-<pubDate>Tue Jun 11 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</pubDate>
+<pubDate>Sun Jun 09 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</pubDate>
 <category><![CDATA[Come, Follow Me]]></category>
 <category><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></category>
 <category><![CDATA[The Book of Mormon]]></category>
 <category><![CDATA[Gospel Study]]></category>
-<guid isPermaLink="false">https://scriptures.byu.edu/scriptures/scriptures_ajax/213/6</guid>
-<description><![CDATA[Come, Follow Me 2024 - Alma 6]]></description>
-<content:encoded><![CDATA[<div class="nano-content">
-        <div class="chapterheading"/>
-        <div class="navheading">CHAPTER 6</div>
-        <ul class="versesblock">
-            <li id="alma_6.1" class=""><span class="verse">1</span> And now it came to pass that after Alma had made an end of speaking unto the people of the church, which was established in the city of Zarahemla, he ordained priests and elders, by laying on his hands according to the order of God, to preside and watch over the church.</li>
-            <li id="alma_6.2" class=""><span class="verse">2</span> And it came to pass that whosoever did not belong to the church who repented of their sins were baptized unto repentance, and were received into the church.</li>
-            <li id="alma_6.3" class=""><span class="verse">3</span> And it also came to pass that whosoever did belong to the church that did not repent of their wickedness and humble themselves before God&#x2014;I mean those who were lifted up in the pride of their hearts&#x2014;the same were rejected, and their names were blotted out, that their names were not numbered among those of the righteous.</li>
-            <li id="alma_6.4" class=""><span class="verse">4</span> And thus they began to establish the order of the church in the city of Zarahemla.</li>
-            <li id="alma_6.5" class=""><span class="verse">5</span> Now I would that ye should understand that the word of God was liberal unto all, that none were deprived of the privilege of assembling themselves together to hear the word of God.</li>
-            <li id="alma_6.6" class=""><span class="verse">6</span> Nevertheless the children of God were commanded that they should gather themselves together oft, and join in fasting and mighty prayer in behalf of the welfare of the souls of those who knew not God.</li>
-            <li id="alma_6.7" class=""><span class="verse">7</span> And now it came to pass that when Alma had made these regulations he departed from them, yea, from the church which was in the city of Zarahemla, and went over upon the east of the river Sidon, into the valley of Gideon, there having been a city built, which was called the city of Gideon, which was in the valley that was called Gideon, being called after the man who was slain by the hand of Nehor with the sword.</li>
-            <li id="alma_6.8" class=""><span class="verse">8</span> And Alma went and began to declare the word of God unto the church which was established in the valley of Gideon, according to the revelation of the truth of the word which had been spoken by his fathers, and according to the spirit of prophecy which was in him, according to the testimony of Jesus Christ, the Son of God, who should come to redeem his people from their sins, and the holy order by which he was called.  And thus it is written.  Amen.</li>
-        </ul>
-    </div>]]></content:encoded>
+<guid isPermaLink="false">https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/23?lang=eng</guid>
+<media:thumbnail url="https://www.churchofjesuschrist.org/imgs/d0291ca3d82b619f2ebcb143de960319d636ef2f/full/500%2C/0/default" />
+<description><![CDATA[Come, Follow Me 2024 - June 3–9: “They Were Steadfast and Immovable”]]></description>
+<content:encoded><![CDATA[<div class="body"><iframe class="IsolatedDom-sc-h3zeen-0 kmHRJp"/><p class="reference" data-aid="154069172" id="reference1">&#x201C;June 3&#x2013;9: &#x2018;They Were Steadfast and Immovable.&#x2019; Mosiah 29&#x2013;Alma 4,&#x201D; <cite>Come, Follow Me&#x2014;For Home and Church: Book of Mormon 2024</cite> (2023)</p>
+<p class="short-reference" data-aid="154069179" id="short_reference1">&#x201C;June 3&#x2013;9. Mosiah 29&#x2013;Alma 4,&#x201D; <cite>Come, Follow Me&#x2014;For Home and Church: 2024</cite> (2023)</p>
+<header>
+<figure class="image no-print" id="figure1">
+<div><div class="imageWrapper-wTPPD"><figure class="imageWithModal-ILaMF loadImageItem-u5D4D" title="Alma the Younger preaching"><img width="500" height="263" alt=""/><div class="container-W4jed"><div class="innerFlex-R9N_u"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" role="presentation" class="sc-1d18oav-0 bYvpFK"> <path fill="currentColor" d="M20 4.75L19.25 4v16l.75-.75H4l.75.75V4L4 4.75h16zM3.25 4v16c0 .414.336.75.75.75h16a.75.75 0 0 0 .75-.75V4a.75.75 0 0 0-.75-.75H4a.75.75 0 0 0-.75.75zm11.07 8.888c.23-.357.606-.353.828-.008l2.887 4.482c.227.352.06.638-.357.638H6.326c-.421 0-.581-.3-.37-.648l4.006-6.622c.217-.358.567-.359.793.014l2.396 3.96 1.17-1.816zm1.59-2.735c1.14 0 2.066-.907 2.066-2.026 0-1.12-.926-2.027-2.067-2.027s-2.066.907-2.066 2.027c0 1.119.925 2.026 2.066 2.026z"> </path></svg><div class="sc-1szn76m-0 gUZQGm i18nString-raclU">Image</div><div class="sc-1szn76m-0 gUZQGm title-RrK9J">Alma the Younger preaching</div></div></div></figure></div></div>
+<div class="credit">
+<p data-aid="154069185" id="figure1_p1"><cite>Alma the Younger Preaching</cite>, by Gary&#xA0;L. Kapp</p>
+</div>
+</figure>
+<p class="title-number" data-aid="154069191" id="title_number1">June 3&#x2013;9: &#x201C;They Were Steadfast and Immovable&#x201D;</p>
+<h1 data-aid="154069197" id="title1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/29?lang=eng">Mosiah&#xA0;29</a>&#x2013;<a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng">Alma&#xA0;4</a></h1>
+</header>
+<div class="body-block">
+<p data-aid="154069203" id="p1">Some might see King Mosiah&#x2019;s proposal to replace kings with elected judges as merely wise political reform. But to the Nephites, especially those who lived under wicked King Noah, this change had spiritual significance too. They had seen how an unrighteous king had influenced his people, and they were &#x201C;exceedingly anxious&#x201D; to be free from such influence. This change would allow them to be responsible for their own righteousness and &#x201C;answer for [their] own sins&#x201D; (<a class="scripture-ref" href="/study/scriptures/bofm/mosiah/29?lang=eng&amp;id=p38#p38">Mosiah 29:38</a>).</p>
+<p data-aid="154069209" id="p2">Of course, the end of the reign of kings did not mean the end of problems in Nephite society. Cunning people like Nehor and Amlici promoted false ideas, nonbelievers persecuted the Saints, and many members of the Church became prideful and fell away. Yet &#x201C;the humble followers of God&#x201D; remained &#x201C;steadfast and immovable&#x201D; despite what happened around them (<a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p15#p15">Alma 4:15</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p25#p25">1:25</a>).</p>
+<section>
+<header>
+<h2 data-aid="154069214" id="title2">Ideas for Learning at Home and at Church</h2>
+</header>
+<section>
+<header>
+<p class="scripture-title" data-aid="154069220" id="scripture_title1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/29?lang=eng&amp;id=p26-p27#p26">Mosiah 29:26&#x2013;27</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/2?lang=eng&amp;id=p1-p7#p1">Alma 2:1&#x2013;7</a></p>
+<h3 data-aid="154069226" id="title3"><span class="iconPointer-OKie_ icon-eLakR icon-ieVZ1" data-pointer-type="media" data-scroll-id="title3" title="Associated Content"><button aria-label="Associated Content" class="iconPointerButton-Z_d47"><svg class="sc-vl6hp0-0 iOmaky Icon-Sax6y" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" role="presentation"> <path fill="currentColor" d="M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z"> </path></svg></button></span>I can be a positive influence in my community.</h3>
+</header>
+<p data-aid="154069232" id="p3">Just five years into the reign of the judges, a crisis arose that would test Mosiah&#x2019;s declaration that the voice of the people would usually choose what was right (see <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/29?lang=eng&amp;id=p26#p26">Mosiah 29:26</a>). Study <a class="scripture-ref" href="/study/scriptures/bofm/alma/2?lang=eng&amp;id=p1-p7#p1">Alma 2:1&#x2013;7</a> to find out what the issue was and what the Nephites did about it. What might have happened if &#x201C;the people of the church&#x201D; had not made their voices heard? What else do you learn from this account about how the Lord wants you to be involved in your community? (see also <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/29?lang=eng&amp;id=p26-p27#p26">Mosiah 29:26&#x2013;27</a>).</p>
+<p data-aid="154069238" id="p4">What are the important issues facing your community? Consider how you, like the Nephites, can make sure that your voice is included in &#x201C;the voice of the people.&#x201D; In what other ways can you, as a follower of Jesus Christ, influence your community for good?</p>
+<p data-aid="154069244" id="p5">See also Dallin&#xA0;H. Oaks, &#x201C;<a class="cross-ref" href="/study/general-conference/2020/10/17oaks?lang=eng">Love Your Enemies</a>,&#x201D; <cite>Liahona</cite>, Nov. 2020, 26&#x2013;29.</p>
+</section>
+<section>
+<header>
+<p class="scripture-title" data-aid="154069250" id="scripture_title2"><a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng">Alma&#xA0;1</a></p>
+<h3 data-aid="154069256" id="title4">The word of God can help me recognize false doctrine.</h3>
+</header>
+<p data-aid="154069263" id="p6">Although Nehor eventually confessed that what he taught was false, his teachings continued to influence the Nephites for many years. Why do you think people liked what Nehor taught? In <a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p2-p6#p2">Alma 1:2&#x2013;6</a>, look for the lies in Nehor&#x2019;s teachings&#x2014;and the truths he used to hide those lies.</p>
+<p data-aid="154069269" id="p7">Gideon withstood Nehor &#x201C;with the words of God&#x201D; (<a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p7,9#p7">Alma 1:7,&#xA0;9</a>). Here are some scriptures that refute Nehor&#x2019;s falsehoods: <a class="scripture-ref" href="/study/scriptures/nt/matt/7?lang=eng&amp;id=p21-p23#p21">Matthew 7:21&#x2013;23</a>; <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/26?lang=eng&amp;id=p29-p31#p29">2&#xA0;Nephi 26:29&#x2013;31</a>; <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p24-p26#p24">Mosiah 18:24&#x2013;26</a>; and <a class="scripture-ref" href="/study/scriptures/bofm/hel/12?lang=eng&amp;id=p25-p26#p25">Helaman 12:25&#x2013;26</a>. Try summarizing each scripture passage. What have you learned from living prophets that refutes false teachings in our day?</p>
+</section>
+<section>
+<header>
+<p class="scripture-title" data-aid="154069275" id="scripture_title3"><a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p19-p31#p19">Alma 1:19&#x2013;31</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p6-p15#p6">4:6&#x2013;15</a></p>
+<h3 data-aid="154069281" id="title5">True disciples of Jesus Christ are &#x201C;humble followers of God.&#x201D;</h3>
+</header>
+<p data-aid="154069287" id="p8"><a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng">Chapters&#xA0;1</a> and&#xA0;<a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng">4</a> of Alma describe periods when the Church prospered, but Church members responded to that prosperity differently. For example, compare <a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p19-p30#p19">Alma 1:19&#x2013;30</a> with <a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p6-p15#p6">Alma 4:6&#x2013;15</a> to see how Church members changed in just a few years. Based on what you&#x2019;ve read, how do true followers of Jesus Christ feel about people who have different beliefs? What attitude do true followers of Christ have toward riches and prosperity? What do you feel inspired to change about your own attitude?</p>
+<figure class="for-teacher" data-purpose="teaching-improvement" id="figure2">
+<p data-aid="154069293" id="figure2_p1"><strong>Liken the scriptures to yourself.</strong> Consider how the stories and teachings of the scriptures apply to your life. For example, you might find similarities between problems you notice today and the problems the Nephites faced in <a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng">Alma 1&#x2013;4</a>.</p>
+</figure>
+</section>
+<section>
+<header>
+<p class="scripture-title" data-aid="154069299" id="scripture_title4"><a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p6-p20#p6">Alma 4:6&#x2013;20</a></p>
+<h3 data-aid="154069305" id="title6"><span class="iconPointer-OKie_ icon-eLakR icon-ieVZ1" data-pointer-type="media" data-scroll-id="title6" title="Associated Content"><button aria-label="Associated Content" class="iconPointerButton-Z_d47"><svg class="sc-vl6hp0-0 iOmaky Icon-Sax6y" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" role="presentation"> <path fill="currentColor" d="M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z"> </path></svg></button></span><div class="imageWrapper-wTPPD" style="display:inline"><figure class="icon loadImageItem-u5D4D" title="seminary icon"><img width="60" height="35" alt=""/><div class="container-W4jed"><div class="innerFlex-R9N_u"><div class="sc-1u44evz-0 dfhgrO i18nString-raclU">Image</div><div class="sc-1u44evz-0 dfhgrO title-RrK9J">seminary icon</div></div></div></figure></div>My example and testimony can change hearts.</h3>
+</header>
+<p data-aid="154069323" id="p9">Maybe you can relate to the sadness Alma felt when he saw what was happening among his people. Look for the problems he saw in <a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p6-p15#p6">Alma 4:6&#x2013;15</a>. Have you noticed any similar problems? Perhaps you are worried about a loved one who struggles with these problems. Have you wondered what you could possibly do to help?</p>
+<p data-aid="154069330" id="p10">Some might say that Alma, as chief judge, was the best person to solve these problems. But Alma felt there was a better way. As you read <a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p16-p20#p16">verses 16&#x2013;20</a>, what impresses you about his approach to helping his people?</p>
+<p data-aid="154069335" id="p11">Alma had great faith in the word of God and &#x201C;pure testimony&#x201D; (<a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p19#p19">verse&#xA0;19</a>). What examples have you seen of the power of pure testimony? As you ponder various ways you can share your testimony of Jesus Christ and His gospel, you might reread <a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p6-p14#p6">Alma 4:6&#x2013;14</a>. What do the actions of Church members in these verses reveal about their testimonies of Jesus Christ and His teachings? What do you notice about the effect of their actions&#x2014;on themselves and on others? You might also think about ways you have been blessed by other people&#x2019;s pure testimony, whether it was shared through words or actions.</p>
+<p data-aid="154069342" id="p12">Think of ways you could share your testimony of Jesus Christ&#x2014;in words or actions. Who would benefit from your witness?</p>
+<p data-aid="154069348" id="p13">See also Gary&#xA0;E. Stevenson, &#x201C;<a class="cross-ref" href="/study/general-conference/2022/10/55stevenson?lang=eng">Nourishing and Bearing Your Testimony</a>,&#x201D; <cite>Liahona</cite>, Nov. 2022, 111&#x2013;14; &#x201C;<a class="cross-ref" href="/study/manual/hymns/testimony?lang=eng">Testimony</a>,&#x201D; <cite>Hymns</cite>, no.&#xA0;137; &#x201C;Alma the Younger Steps Down as Chief Judge&#x201D; (video), Gospel Library; Gospel Topics, &#x201C;<a class="cross-ref" href="/study/manual/gospel-topics/revelation-study-guide?lang=eng">Revelation</a>,&#x201D; Gospel Library.</p>
+<div class="sc-bvqtyr-0 duiKkI video-vMiKm video"><div class="sc-bvqtyr-1 inwLwu"><div class="sc-bvqtyr-2 hQntbb"><img alt="" class="posterFallback-wNf54" sizes="(max-width: 400px) 320px, 640px" srcset="
+            https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2Fd9%2F18%2Fd918edd60d8ae397f28983baab6a70f4fdf8e6e2%2Fd918edd60d8ae397f28983baab6a70f4fdf8e6e2.jpeg/full/!320,/0/default 320w,
+            https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2Fd9%2F18%2Fd918edd60d8ae397f28983baab6a70f4fdf8e6e2%2Fd918edd60d8ae397f28983baab6a70f4fdf8e6e2.jpeg/full/!640,/0/default 640w
+        " src="https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default"/><button aria-label="
+                Play - Alma the Younger Steps Down as Chief Judge | Mosiah 29; Alma 4
+            " class="sc-1g7hsbc-0 bCKkuP sc-bvqtyr-3 zrTrR" type="button"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" role="presentation" class="sc-1kfl9f7-0 hvmWVP"> <path fill="currentColor" d="M7.13 20.833c-.625.386-1.13.08-1.13-.678V3.845c0-.758.505-1.064 1.13-.678l13.401 8.155c.625.372.625.984 0 1.356l-13.4 8.155z"> </path></svg></button></div><div/></div></div>
+<figure class="teaching-method" id="figure5">
+<p data-aid="154069354" id="figure5_p1">For more ideas, see this month&#x2019;s issues of the <cite><a class="cross-ref" href="/study/liahona/2024/06?lang=eng">Liahona</a></cite> and <cite><a class="cross-ref" href="/study/ftsoy/2024/06?lang=eng">For the Strength of Youth</a></cite> magazines.</p>
+</figure>
+</section>
+</section>
+<section>
+<header>
+<h2 data-aid="154069360" id="title7">Ideas for Teaching Children</h2>
+</header>
+<section>
+<header>
+<p class="scripture-title" data-aid="154069366" id="scripture_title5"><a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p2-p9#p2">Alma 1:2&#x2013;9</a></p>
+<h3 data-aid="154069371" id="title8"><span class="iconPointer-OKie_ icon-eLakR icon-ieVZ1" data-pointer-type="media" data-scroll-id="title8" title="Associated Content"><button aria-label="Associated Content" class="iconPointerButton-Z_d47"><svg class="sc-vl6hp0-0 iOmaky Icon-Sax6y" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" role="presentation"> <path fill="currentColor" d="M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z"> </path></svg></button></span>The Lord can help me recognize false teachings.</h3>
+</header>
+<ul class="bullet">
+<li>
+<p data-aid="154069376" id="p15">One way to study <a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p2-p4#p2">Alma 1:2&#x2013;4</a> with your children is to help them create a true-or-false quiz using statements taught by Nehor, a false teacher. Then you could talk with them about why Satan often combines truths with falsehoods. Help your children think of some examples. In <a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p7-p9#p7">verses 7&#x2013;9</a>, how did Gideon withstand Nehor&#x2019;s lies? (See also &#x201C;<a class="cross-ref" href="/study/manual/book-of-mormon-stories-2024/23-gideon-alma-and-nehor?lang=eng">Chapter&#xA0;20: Alma and Nehor</a>,&#x201D; <cite>Book of Mormon Stories</cite>, 54&#x2013;55.)</p>
+<div class="sc-bvqtyr-0 duiKkI video-vMiKm video"><div class="sc-bvqtyr-1 inwLwu"><div class="sc-bvqtyr-2 hQntbb"><img alt="" class="posterFallback-wNf54" sizes="(max-width: 400px) 320px, 640px" srcset="
+            https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2Fb1%2F2c%2Fb12c275132085f7e974428745af56853df3ea8a9%2Fb12c275132085f7e974428745af56853df3ea8a9.jpeg/full/!320,/0/default 320w,
+            https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2Fb1%2F2c%2Fb12c275132085f7e974428745af56853df3ea8a9%2Fb12c275132085f7e974428745af56853df3ea8a9.jpeg/full/!640,/0/default 640w
+        " src="https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default"/><button aria-label="
+                Play - Gideon, Alma, and Nehor
+            " class="sc-1g7hsbc-0 bCKkuP sc-bvqtyr-3 zrTrR" type="button"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" role="presentation" class="sc-1kfl9f7-0 hvmWVP"> <path fill="currentColor" d="M7.13 20.833c-.625.386-1.13.08-1.13-.678V3.845c0-.758.505-1.064 1.13-.678l13.401 8.155c.625.372.625.984 0 1.356l-13.4 8.155z"> </path></svg></button></div><div/></div></div>
+</li>
+</ul>
+</section>
+<section>
+<header>
+<p class="scripture-title" data-aid="154069379" id="scripture_title6"><a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p19-p25#p19">Alma 1:19&#x2013;25</a></p>
+<h3 data-aid="154069383" id="title9"><span class="iconPointer-OKie_ icon-eLakR icon-ieVZ1" data-pointer-type="media" data-scroll-id="title9" title="Associated Content"><button aria-label="Associated Content" class="iconPointerButton-Z_d47"><svg class="sc-vl6hp0-0 iOmaky Icon-Sax6y" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" role="presentation"> <path fill="currentColor" d="M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z"> </path></svg></button></span>As a member of the Church of Jesus Christ, I love and serve others.</h3>
+</header>
+<ul class="bullet">
+<li>
+<p data-aid="154069388" id="p16">Some members of the Lord&#x2019;s Church in Alma&#x2019;s day were generous and giving, and other members were unkind and prideful. To help your children learn from these experiences, you could read together <a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p27,30#p27">Alma 1:27,&#xA0;30</a> and make a list of the kinds of people members of the Lord&#x2019;s Church helped. Who do we know who might &#x201C;[stand] in need&#x201D; (<a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p30#p30">Alma 1:30</a>) of our love and help? You could also sing together a song about love and service, such as &#x201C;<a class="cross-ref" href="/study/manual/childrens-songbook/kindness-begins-with-me?lang=eng">Kindness Begins with Me</a>&#x201D; (<cite>Children&#x2019;s Songbook</cite>,&#xA0;145), and help your children think of actions that could go with the song.</p>
+</li>
+<li>
+<p data-aid="154069393" id="p17">What should we do when people are unkind to us? Consider reading with your children how followers of Christ were treated in <a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p19-p20#p19">Alma 1:19&#x2013;20</a>. Talk about how they reacted in <a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p22,25#p22">verses&#xA0;22 and&#xA0;25</a>. Maybe you could practice ways to respond when others are unkind.</p>
+</li>
+</ul>
+</section>
+<section>
+<header>
+<p class="scripture-title" data-aid="154069398" id="scripture_title7"><a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p8-p20#p8">Alma 4:8&#x2013;20</a></p>
+<h3 data-aid="154069404" id="title10">My testimony can strengthen others.</h3>
+</header>
+<ul class="bullet">
+<li>
+<p data-aid="154069409" id="p18">Often the &#x201C;pure testimony&#x201D; (<a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p19#p19">Alma 4:19</a>) of a child can have a strong influence on others. To help your children discover this, you could read with them <a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p8-p12,15#p8">Alma 4:8&#x2013;12,&#xA0;15</a>, helping them identify the problems that were happening in the Church. What could Alma do to solve these problems? Help them find out what Alma decided to do in <a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p16-p20#p16">Alma 4:16&#x2013;20</a>. Maybe you could share with each other how someone else&#x2019;s testimony of Christ has strengthened you.</p>
+</li>
+<li>
+<p data-aid="154069415" id="p19">If your children need examples of what a testimony is, consider showing a video clip of a speaker in general conference bearing testimony. You could also use this week&#x2019;s activity page or sing together a song like &#x201C;<a class="cross-ref" href="/study/manual/hymns/testimony?lang=eng">Testimony</a>&#x201D; (<cite>Hymns</cite>, no.&#xA0;137). What do we learn about testimonies from these resources? Let your children practice sharing their testimonies.</p>
+</li>
+</ul>
+<figure class="teaching-method" id="figure6">
+<p data-aid="154069419" id="figure6_p1">For more ideas, see this month&#x2019;s issue of the <cite><a class="cross-ref" href="/study/friend/2024/06?lang=eng">Friend</a></cite> magazine.</p>
+</figure>
+</section>
+</section>
+</div>
+<div class="resources">
+<figure class="handout no-print" id="figure3">
+<figure class="image no-print" id="figure3_figure1">
+<a class="enlarge" to="[object Object]" href="https://assets.churchofjesuschrist.org/d4/1c/d41c148d46f2c6b4c4cb2147917a6df29e7a8430/alma_fighting_battle_amlici.jpeg">
+<div class="imageWrapper-wTPPD"><figure class="loadImageItem-u5D4D" title="Nephites battling Amlicites"><img width="320" height="240" alt=""/><div class="container-W4jed"><div class="innerFlex-R9N_u"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" role="presentation" class="sc-1d18oav-0 bYvpFK"> <path fill="currentColor" d="M20 4.75L19.25 4v16l.75-.75H4l.75.75V4L4 4.75h16zM3.25 4v16c0 .414.336.75.75.75h16a.75.75 0 0 0 .75-.75V4a.75.75 0 0 0-.75-.75H4a.75.75 0 0 0-.75.75zm11.07 8.888c.23-.357.606-.353.828-.008l2.887 4.482c.227.352.06.638-.357.638H6.326c-.421 0-.581-.3-.37-.648l4.006-6.622c.217-.358.567-.359.793.014l2.396 3.96 1.17-1.816zm1.59-2.735c1.14 0 2.066-.907 2.066-2.026 0-1.12-.926-2.027-2.067-2.027s-2.066.907-2.066 2.027c0 1.119.925 2.026 2.066 2.026z"> </path></svg><div class="sc-1szn76m-0 gUZQGm i18nString-raclU">Image</div><div class="sc-1szn76m-0 gUZQGm title-RrK9J">Nephites battling Amlicites</div></div></div></figure></div>
+</a>
+<figcaption>
+<p data-aid="154069424" id="figure3_figure1_p1"><cite>Alma and Amlici</cite>, by Scott&#xA0;M. Snow</p>
+</figcaption>
+</figure>
+</figure>
+</div>
+<div class="resources">
+<figure class="handout no-print" id="figure4">
+<a class="enlarge" to="[object Object]" href="https://assets.ldscdn.org/f3/3c/f33ca9dea93611ec8f90eeeeac1eb6578dcb6fb1/book_of_mormon.pdf">
+<div class="imageWrapper-wTPPD"><figure class="loadImageItem-u5D4D" title="activity page: My testimony can strengthen others"><img width="320" height="416" alt=""/><div class="container-W4jed"><div class="innerFlex-R9N_u"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" role="presentation" class="sc-1d18oav-0 bYvpFK"> <path fill="currentColor" d="M20 4.75L19.25 4v16l.75-.75H4l.75.75V4L4 4.75h16zM3.25 4v16c0 .414.336.75.75.75h16a.75.75 0 0 0 .75-.75V4a.75.75 0 0 0-.75-.75H4a.75.75 0 0 0-.75.75zm11.07 8.888c.23-.357.606-.353.828-.008l2.887 4.482c.227.352.06.638-.357.638H6.326c-.421 0-.581-.3-.37-.648l4.006-6.622c.217-.358.567-.359.793.014l2.396 3.96 1.17-1.816zm1.59-2.735c1.14 0 2.066-.907 2.066-2.026 0-1.12-.926-2.027-2.067-2.027s-2.066.907-2.066 2.027c0 1.119.925 2.026 2.066 2.026z"> </path></svg><div class="sc-1szn76m-0 gUZQGm i18nString-raclU">Image</div><div class="sc-1szn76m-0 gUZQGm title-RrK9J">activity page: My testimony can strengthen others</div></div></div></figure></div>
+</a>
+</figure>
+</div></div>]]></content:encoded>
 </item><item>
 <title>May 20–26: We Have Entered into a Covenant with Him</title>
 <link>https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/21?lang=eng</link>
@@ -1426,158 +1549,6 @@
 <figure class="handout no-print" id="figure5">
 <a class="enlarge" to="[object Object]" href="https://assets.ldscdn.org/e2/b3/e2b3394ca93511ec9f37eeeeac1e5aa55fa3acca/book_of_mormon.pdf">
 <div class="imageWrapper-wTPPD"><figure class="loadImageItem-u5D4D" title="activity page: I can stand for Jesus Christ, even when I stand alone"><img width="320" height="416" alt=""/><div class="container-W4jed"><div class="innerFlex-R9N_u"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" role="presentation" class="sc-1d18oav-0 bYvpFK"> <path fill="currentColor" d="M20 4.75L19.25 4v16l.75-.75H4l.75.75V4L4 4.75h16zM3.25 4v16c0 .414.336.75.75.75h16a.75.75 0 0 0 .75-.75V4a.75.75 0 0 0-.75-.75H4a.75.75 0 0 0-.75.75zm11.07 8.888c.23-.357.606-.353.828-.008l2.887 4.482c.227.352.06.638-.357.638H6.326c-.421 0-.581-.3-.37-.648l4.006-6.622c.217-.358.567-.359.793.014l2.396 3.96 1.17-1.816zm1.59-2.735c1.14 0 2.066-.907 2.066-2.026 0-1.12-.926-2.027-2.067-2.027s-2.066.907-2.066 2.027c0 1.119.925 2.026 2.066 2.026z"> </path></svg><div class="sc-1szn76m-0 gUZQGm i18nString-raclU">Image</div><div class="sc-1szn76m-0 gUZQGm title-RrK9J">activity page: I can stand for Jesus Christ, even when I stand alone</div></div></div></figure></div>
-</a>
-</figure>
-</div></div>]]></content:encoded>
-</item><item>
-<title>June 3–9: “They Were Steadfast and Immovable”</title>
-<link>https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/23?lang=eng</link>
-<dc:creator><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></dc:creator>
-<pubDate>Sun Jun 09 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</pubDate>
-<category><![CDATA[Come, Follow Me]]></category>
-<category><![CDATA[The Church of Jesus Christ of Latter-Day Saints]]></category>
-<category><![CDATA[The Book of Mormon]]></category>
-<category><![CDATA[Gospel Study]]></category>
-<guid isPermaLink="false">https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/23?lang=eng</guid>
-<media:thumbnail url="https://www.churchofjesuschrist.org/imgs/d0291ca3d82b619f2ebcb143de960319d636ef2f/full/500%2C/0/default" />
-<description><![CDATA[Come, Follow Me 2024 - June 3–9: “They Were Steadfast and Immovable”]]></description>
-<content:encoded><![CDATA[<div class="body"><iframe class="IsolatedDom-sc-h3zeen-0 kmHRJp"/><p class="reference" data-aid="154069172" id="reference1">&#x201C;June 3&#x2013;9: &#x2018;They Were Steadfast and Immovable.&#x2019; Mosiah 29&#x2013;Alma 4,&#x201D; <cite>Come, Follow Me&#x2014;For Home and Church: Book of Mormon 2024</cite> (2023)</p>
-<p class="short-reference" data-aid="154069179" id="short_reference1">&#x201C;June 3&#x2013;9. Mosiah 29&#x2013;Alma 4,&#x201D; <cite>Come, Follow Me&#x2014;For Home and Church: 2024</cite> (2023)</p>
-<header>
-<figure class="image no-print" id="figure1">
-<div><div class="imageWrapper-wTPPD"><figure class="imageWithModal-ILaMF loadImageItem-u5D4D" title="Alma the Younger preaching"><img width="500" height="263" alt=""/><div class="container-W4jed"><div class="innerFlex-R9N_u"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" role="presentation" class="sc-1d18oav-0 bYvpFK"> <path fill="currentColor" d="M20 4.75L19.25 4v16l.75-.75H4l.75.75V4L4 4.75h16zM3.25 4v16c0 .414.336.75.75.75h16a.75.75 0 0 0 .75-.75V4a.75.75 0 0 0-.75-.75H4a.75.75 0 0 0-.75.75zm11.07 8.888c.23-.357.606-.353.828-.008l2.887 4.482c.227.352.06.638-.357.638H6.326c-.421 0-.581-.3-.37-.648l4.006-6.622c.217-.358.567-.359.793.014l2.396 3.96 1.17-1.816zm1.59-2.735c1.14 0 2.066-.907 2.066-2.026 0-1.12-.926-2.027-2.067-2.027s-2.066.907-2.066 2.027c0 1.119.925 2.026 2.066 2.026z"> </path></svg><div class="sc-1szn76m-0 gUZQGm i18nString-raclU">Image</div><div class="sc-1szn76m-0 gUZQGm title-RrK9J">Alma the Younger preaching</div></div></div></figure></div></div>
-<div class="credit">
-<p data-aid="154069185" id="figure1_p1"><cite>Alma the Younger Preaching</cite>, by Gary&#xA0;L. Kapp</p>
-</div>
-</figure>
-<p class="title-number" data-aid="154069191" id="title_number1">June 3&#x2013;9: &#x201C;They Were Steadfast and Immovable&#x201D;</p>
-<h1 data-aid="154069197" id="title1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/29?lang=eng">Mosiah&#xA0;29</a>&#x2013;<a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng">Alma&#xA0;4</a></h1>
-</header>
-<div class="body-block">
-<p data-aid="154069203" id="p1">Some might see King Mosiah&#x2019;s proposal to replace kings with elected judges as merely wise political reform. But to the Nephites, especially those who lived under wicked King Noah, this change had spiritual significance too. They had seen how an unrighteous king had influenced his people, and they were &#x201C;exceedingly anxious&#x201D; to be free from such influence. This change would allow them to be responsible for their own righteousness and &#x201C;answer for [their] own sins&#x201D; (<a class="scripture-ref" href="/study/scriptures/bofm/mosiah/29?lang=eng&amp;id=p38#p38">Mosiah 29:38</a>).</p>
-<p data-aid="154069209" id="p2">Of course, the end of the reign of kings did not mean the end of problems in Nephite society. Cunning people like Nehor and Amlici promoted false ideas, nonbelievers persecuted the Saints, and many members of the Church became prideful and fell away. Yet &#x201C;the humble followers of God&#x201D; remained &#x201C;steadfast and immovable&#x201D; despite what happened around them (<a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p15#p15">Alma 4:15</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p25#p25">1:25</a>).</p>
-<section>
-<header>
-<h2 data-aid="154069214" id="title2">Ideas for Learning at Home and at Church</h2>
-</header>
-<section>
-<header>
-<p class="scripture-title" data-aid="154069220" id="scripture_title1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/29?lang=eng&amp;id=p26-p27#p26">Mosiah 29:26&#x2013;27</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/2?lang=eng&amp;id=p1-p7#p1">Alma 2:1&#x2013;7</a></p>
-<h3 data-aid="154069226" id="title3"><span class="iconPointer-OKie_ icon-eLakR icon-ieVZ1" data-pointer-type="media" data-scroll-id="title3" title="Associated Content"><button aria-label="Associated Content" class="iconPointerButton-Z_d47"><svg class="sc-vl6hp0-0 iOmaky Icon-Sax6y" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" role="presentation"> <path fill="currentColor" d="M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z"> </path></svg></button></span>I can be a positive influence in my community.</h3>
-</header>
-<p data-aid="154069232" id="p3">Just five years into the reign of the judges, a crisis arose that would test Mosiah&#x2019;s declaration that the voice of the people would usually choose what was right (see <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/29?lang=eng&amp;id=p26#p26">Mosiah 29:26</a>). Study <a class="scripture-ref" href="/study/scriptures/bofm/alma/2?lang=eng&amp;id=p1-p7#p1">Alma 2:1&#x2013;7</a> to find out what the issue was and what the Nephites did about it. What might have happened if &#x201C;the people of the church&#x201D; had not made their voices heard? What else do you learn from this account about how the Lord wants you to be involved in your community? (see also <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/29?lang=eng&amp;id=p26-p27#p26">Mosiah 29:26&#x2013;27</a>).</p>
-<p data-aid="154069238" id="p4">What are the important issues facing your community? Consider how you, like the Nephites, can make sure that your voice is included in &#x201C;the voice of the people.&#x201D; In what other ways can you, as a follower of Jesus Christ, influence your community for good?</p>
-<p data-aid="154069244" id="p5">See also Dallin&#xA0;H. Oaks, &#x201C;<a class="cross-ref" href="/study/general-conference/2020/10/17oaks?lang=eng">Love Your Enemies</a>,&#x201D; <cite>Liahona</cite>, Nov. 2020, 26&#x2013;29.</p>
-</section>
-<section>
-<header>
-<p class="scripture-title" data-aid="154069250" id="scripture_title2"><a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng">Alma&#xA0;1</a></p>
-<h3 data-aid="154069256" id="title4">The word of God can help me recognize false doctrine.</h3>
-</header>
-<p data-aid="154069263" id="p6">Although Nehor eventually confessed that what he taught was false, his teachings continued to influence the Nephites for many years. Why do you think people liked what Nehor taught? In <a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p2-p6#p2">Alma 1:2&#x2013;6</a>, look for the lies in Nehor&#x2019;s teachings&#x2014;and the truths he used to hide those lies.</p>
-<p data-aid="154069269" id="p7">Gideon withstood Nehor &#x201C;with the words of God&#x201D; (<a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p7,9#p7">Alma 1:7,&#xA0;9</a>). Here are some scriptures that refute Nehor&#x2019;s falsehoods: <a class="scripture-ref" href="/study/scriptures/nt/matt/7?lang=eng&amp;id=p21-p23#p21">Matthew 7:21&#x2013;23</a>; <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/26?lang=eng&amp;id=p29-p31#p29">2&#xA0;Nephi 26:29&#x2013;31</a>; <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p24-p26#p24">Mosiah 18:24&#x2013;26</a>; and <a class="scripture-ref" href="/study/scriptures/bofm/hel/12?lang=eng&amp;id=p25-p26#p25">Helaman 12:25&#x2013;26</a>. Try summarizing each scripture passage. What have you learned from living prophets that refutes false teachings in our day?</p>
-</section>
-<section>
-<header>
-<p class="scripture-title" data-aid="154069275" id="scripture_title3"><a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p19-p31#p19">Alma 1:19&#x2013;31</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p6-p15#p6">4:6&#x2013;15</a></p>
-<h3 data-aid="154069281" id="title5">True disciples of Jesus Christ are &#x201C;humble followers of God.&#x201D;</h3>
-</header>
-<p data-aid="154069287" id="p8"><a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng">Chapters&#xA0;1</a> and&#xA0;<a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng">4</a> of Alma describe periods when the Church prospered, but Church members responded to that prosperity differently. For example, compare <a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p19-p30#p19">Alma 1:19&#x2013;30</a> with <a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p6-p15#p6">Alma 4:6&#x2013;15</a> to see how Church members changed in just a few years. Based on what you&#x2019;ve read, how do true followers of Jesus Christ feel about people who have different beliefs? What attitude do true followers of Christ have toward riches and prosperity? What do you feel inspired to change about your own attitude?</p>
-<figure class="for-teacher" data-purpose="teaching-improvement" id="figure2">
-<p data-aid="154069293" id="figure2_p1"><strong>Liken the scriptures to yourself.</strong> Consider how the stories and teachings of the scriptures apply to your life. For example, you might find similarities between problems you notice today and the problems the Nephites faced in <a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng">Alma 1&#x2013;4</a>.</p>
-</figure>
-</section>
-<section>
-<header>
-<p class="scripture-title" data-aid="154069299" id="scripture_title4"><a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p6-p20#p6">Alma 4:6&#x2013;20</a></p>
-<h3 data-aid="154069305" id="title6"><span class="iconPointer-OKie_ icon-eLakR icon-ieVZ1" data-pointer-type="media" data-scroll-id="title6" title="Associated Content"><button aria-label="Associated Content" class="iconPointerButton-Z_d47"><svg class="sc-vl6hp0-0 iOmaky Icon-Sax6y" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" role="presentation"> <path fill="currentColor" d="M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z"> </path></svg></button></span><div class="imageWrapper-wTPPD" style="display:inline"><figure class="icon loadImageItem-u5D4D" title="seminary icon"><img width="60" height="35" alt=""/><div class="container-W4jed"><div class="innerFlex-R9N_u"><div class="sc-1u44evz-0 dfhgrO i18nString-raclU">Image</div><div class="sc-1u44evz-0 dfhgrO title-RrK9J">seminary icon</div></div></div></figure></div>My example and testimony can change hearts.</h3>
-</header>
-<p data-aid="154069323" id="p9">Maybe you can relate to the sadness Alma felt when he saw what was happening among his people. Look for the problems he saw in <a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p6-p15#p6">Alma 4:6&#x2013;15</a>. Have you noticed any similar problems? Perhaps you are worried about a loved one who struggles with these problems. Have you wondered what you could possibly do to help?</p>
-<p data-aid="154069330" id="p10">Some might say that Alma, as chief judge, was the best person to solve these problems. But Alma felt there was a better way. As you read <a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p16-p20#p16">verses 16&#x2013;20</a>, what impresses you about his approach to helping his people?</p>
-<p data-aid="154069335" id="p11">Alma had great faith in the word of God and &#x201C;pure testimony&#x201D; (<a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p19#p19">verse&#xA0;19</a>). What examples have you seen of the power of pure testimony? As you ponder various ways you can share your testimony of Jesus Christ and His gospel, you might reread <a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p6-p14#p6">Alma 4:6&#x2013;14</a>. What do the actions of Church members in these verses reveal about their testimonies of Jesus Christ and His teachings? What do you notice about the effect of their actions&#x2014;on themselves and on others? You might also think about ways you have been blessed by other people&#x2019;s pure testimony, whether it was shared through words or actions.</p>
-<p data-aid="154069342" id="p12">Think of ways you could share your testimony of Jesus Christ&#x2014;in words or actions. Who would benefit from your witness?</p>
-<p data-aid="154069348" id="p13">See also Gary&#xA0;E. Stevenson, &#x201C;<a class="cross-ref" href="/study/general-conference/2022/10/55stevenson?lang=eng">Nourishing and Bearing Your Testimony</a>,&#x201D; <cite>Liahona</cite>, Nov. 2022, 111&#x2013;14; &#x201C;<a class="cross-ref" href="/study/manual/hymns/testimony?lang=eng">Testimony</a>,&#x201D; <cite>Hymns</cite>, no.&#xA0;137; &#x201C;Alma the Younger Steps Down as Chief Judge&#x201D; (video), Gospel Library; Gospel Topics, &#x201C;<a class="cross-ref" href="/study/manual/gospel-topics/revelation-study-guide?lang=eng">Revelation</a>,&#x201D; Gospel Library.</p>
-<div class="sc-bvqtyr-0 duiKkI video-vMiKm video"><div class="sc-bvqtyr-1 inwLwu"><div class="sc-bvqtyr-2 hQntbb"><img alt="" class="posterFallback-wNf54" sizes="(max-width: 400px) 320px, 640px" srcset="
-            https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2Fd9%2F18%2Fd918edd60d8ae397f28983baab6a70f4fdf8e6e2%2Fd918edd60d8ae397f28983baab6a70f4fdf8e6e2.jpeg/full/!320,/0/default 320w,
-            https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2Fd9%2F18%2Fd918edd60d8ae397f28983baab6a70f4fdf8e6e2%2Fd918edd60d8ae397f28983baab6a70f4fdf8e6e2.jpeg/full/!640,/0/default 640w
-        " src="https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default"/><button aria-label="
-                Play - Alma the Younger Steps Down as Chief Judge | Mosiah 29; Alma 4
-            " class="sc-1g7hsbc-0 bCKkuP sc-bvqtyr-3 zrTrR" type="button"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" role="presentation" class="sc-1kfl9f7-0 hvmWVP"> <path fill="currentColor" d="M7.13 20.833c-.625.386-1.13.08-1.13-.678V3.845c0-.758.505-1.064 1.13-.678l13.401 8.155c.625.372.625.984 0 1.356l-13.4 8.155z"> </path></svg></button></div><div/></div></div>
-<figure class="teaching-method" id="figure5">
-<p data-aid="154069354" id="figure5_p1">For more ideas, see this month&#x2019;s issues of the <cite><a class="cross-ref" href="/study/liahona/2024/06?lang=eng">Liahona</a></cite> and <cite><a class="cross-ref" href="/study/ftsoy/2024/06?lang=eng">For the Strength of Youth</a></cite> magazines.</p>
-</figure>
-</section>
-</section>
-<section>
-<header>
-<h2 data-aid="154069360" id="title7">Ideas for Teaching Children</h2>
-</header>
-<section>
-<header>
-<p class="scripture-title" data-aid="154069366" id="scripture_title5"><a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p2-p9#p2">Alma 1:2&#x2013;9</a></p>
-<h3 data-aid="154069371" id="title8"><span class="iconPointer-OKie_ icon-eLakR icon-ieVZ1" data-pointer-type="media" data-scroll-id="title8" title="Associated Content"><button aria-label="Associated Content" class="iconPointerButton-Z_d47"><svg class="sc-vl6hp0-0 iOmaky Icon-Sax6y" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" role="presentation"> <path fill="currentColor" d="M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z"> </path></svg></button></span>The Lord can help me recognize false teachings.</h3>
-</header>
-<ul class="bullet">
-<li>
-<p data-aid="154069376" id="p15">One way to study <a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p2-p4#p2">Alma 1:2&#x2013;4</a> with your children is to help them create a true-or-false quiz using statements taught by Nehor, a false teacher. Then you could talk with them about why Satan often combines truths with falsehoods. Help your children think of some examples. In <a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p7-p9#p7">verses 7&#x2013;9</a>, how did Gideon withstand Nehor&#x2019;s lies? (See also &#x201C;<a class="cross-ref" href="/study/manual/book-of-mormon-stories-2024/23-gideon-alma-and-nehor?lang=eng">Chapter&#xA0;20: Alma and Nehor</a>,&#x201D; <cite>Book of Mormon Stories</cite>, 54&#x2013;55.)</p>
-<div class="sc-bvqtyr-0 duiKkI video-vMiKm video"><div class="sc-bvqtyr-1 inwLwu"><div class="sc-bvqtyr-2 hQntbb"><img alt="" class="posterFallback-wNf54" sizes="(max-width: 400px) 320px, 640px" srcset="
-            https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2Fb1%2F2c%2Fb12c275132085f7e974428745af56853df3ea8a9%2Fb12c275132085f7e974428745af56853df3ea8a9.jpeg/full/!320,/0/default 320w,
-            https://www.churchofjesuschrist.org/imgs/https%3A%2F%2Fassets.churchofjesuschrist.org%2Fb1%2F2c%2Fb12c275132085f7e974428745af56853df3ea8a9%2Fb12c275132085f7e974428745af56853df3ea8a9.jpeg/full/!640,/0/default 640w
-        " src="https://www.churchofjesuschrist.org/imgs/${posterReference}/full/!250,/0/default"/><button aria-label="
-                Play - Gideon, Alma, and Nehor
-            " class="sc-1g7hsbc-0 bCKkuP sc-bvqtyr-3 zrTrR" type="button"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" role="presentation" class="sc-1kfl9f7-0 hvmWVP"> <path fill="currentColor" d="M7.13 20.833c-.625.386-1.13.08-1.13-.678V3.845c0-.758.505-1.064 1.13-.678l13.401 8.155c.625.372.625.984 0 1.356l-13.4 8.155z"> </path></svg></button></div><div/></div></div>
-</li>
-</ul>
-</section>
-<section>
-<header>
-<p class="scripture-title" data-aid="154069379" id="scripture_title6"><a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p19-p25#p19">Alma 1:19&#x2013;25</a></p>
-<h3 data-aid="154069383" id="title9"><span class="iconPointer-OKie_ icon-eLakR icon-ieVZ1" data-pointer-type="media" data-scroll-id="title9" title="Associated Content"><button aria-label="Associated Content" class="iconPointerButton-Z_d47"><svg class="sc-vl6hp0-0 iOmaky Icon-Sax6y" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" role="presentation"> <path fill="currentColor" d="M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z"> </path></svg></button></span>As a member of the Church of Jesus Christ, I love and serve others.</h3>
-</header>
-<ul class="bullet">
-<li>
-<p data-aid="154069388" id="p16">Some members of the Lord&#x2019;s Church in Alma&#x2019;s day were generous and giving, and other members were unkind and prideful. To help your children learn from these experiences, you could read together <a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p27,30#p27">Alma 1:27,&#xA0;30</a> and make a list of the kinds of people members of the Lord&#x2019;s Church helped. Who do we know who might &#x201C;[stand] in need&#x201D; (<a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p30#p30">Alma 1:30</a>) of our love and help? You could also sing together a song about love and service, such as &#x201C;<a class="cross-ref" href="/study/manual/childrens-songbook/kindness-begins-with-me?lang=eng">Kindness Begins with Me</a>&#x201D; (<cite>Children&#x2019;s Songbook</cite>,&#xA0;145), and help your children think of actions that could go with the song.</p>
-</li>
-<li>
-<p data-aid="154069393" id="p17">What should we do when people are unkind to us? Consider reading with your children how followers of Christ were treated in <a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p19-p20#p19">Alma 1:19&#x2013;20</a>. Talk about how they reacted in <a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p22,25#p22">verses&#xA0;22 and&#xA0;25</a>. Maybe you could practice ways to respond when others are unkind.</p>
-</li>
-</ul>
-</section>
-<section>
-<header>
-<p class="scripture-title" data-aid="154069398" id="scripture_title7"><a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p8-p20#p8">Alma 4:8&#x2013;20</a></p>
-<h3 data-aid="154069404" id="title10">My testimony can strengthen others.</h3>
-</header>
-<ul class="bullet">
-<li>
-<p data-aid="154069409" id="p18">Often the &#x201C;pure testimony&#x201D; (<a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p19#p19">Alma 4:19</a>) of a child can have a strong influence on others. To help your children discover this, you could read with them <a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p8-p12,15#p8">Alma 4:8&#x2013;12,&#xA0;15</a>, helping them identify the problems that were happening in the Church. What could Alma do to solve these problems? Help them find out what Alma decided to do in <a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p16-p20#p16">Alma 4:16&#x2013;20</a>. Maybe you could share with each other how someone else&#x2019;s testimony of Christ has strengthened you.</p>
-</li>
-<li>
-<p data-aid="154069415" id="p19">If your children need examples of what a testimony is, consider showing a video clip of a speaker in general conference bearing testimony. You could also use this week&#x2019;s activity page or sing together a song like &#x201C;<a class="cross-ref" href="/study/manual/hymns/testimony?lang=eng">Testimony</a>&#x201D; (<cite>Hymns</cite>, no.&#xA0;137). What do we learn about testimonies from these resources? Let your children practice sharing their testimonies.</p>
-</li>
-</ul>
-<figure class="teaching-method" id="figure6">
-<p data-aid="154069419" id="figure6_p1">For more ideas, see this month&#x2019;s issue of the <cite><a class="cross-ref" href="/study/friend/2024/06?lang=eng">Friend</a></cite> magazine.</p>
-</figure>
-</section>
-</section>
-</div>
-<div class="resources">
-<figure class="handout no-print" id="figure3">
-<figure class="image no-print" id="figure3_figure1">
-<a class="enlarge" to="[object Object]" href="https://assets.churchofjesuschrist.org/d4/1c/d41c148d46f2c6b4c4cb2147917a6df29e7a8430/alma_fighting_battle_amlici.jpeg">
-<div class="imageWrapper-wTPPD"><figure class="loadImageItem-u5D4D" title="Nephites battling Amlicites"><img width="320" height="240" alt=""/><div class="container-W4jed"><div class="innerFlex-R9N_u"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" role="presentation" class="sc-1d18oav-0 bYvpFK"> <path fill="currentColor" d="M20 4.75L19.25 4v16l.75-.75H4l.75.75V4L4 4.75h16zM3.25 4v16c0 .414.336.75.75.75h16a.75.75 0 0 0 .75-.75V4a.75.75 0 0 0-.75-.75H4a.75.75 0 0 0-.75.75zm11.07 8.888c.23-.357.606-.353.828-.008l2.887 4.482c.227.352.06.638-.357.638H6.326c-.421 0-.581-.3-.37-.648l4.006-6.622c.217-.358.567-.359.793.014l2.396 3.96 1.17-1.816zm1.59-2.735c1.14 0 2.066-.907 2.066-2.026 0-1.12-.926-2.027-2.067-2.027s-2.066.907-2.066 2.027c0 1.119.925 2.026 2.066 2.026z"> </path></svg><div class="sc-1szn76m-0 gUZQGm i18nString-raclU">Image</div><div class="sc-1szn76m-0 gUZQGm title-RrK9J">Nephites battling Amlicites</div></div></div></figure></div>
-</a>
-<figcaption>
-<p data-aid="154069424" id="figure3_figure1_p1"><cite>Alma and Amlici</cite>, by Scott&#xA0;M. Snow</p>
-</figcaption>
-</figure>
-</figure>
-</div>
-<div class="resources">
-<figure class="handout no-print" id="figure4">
-<a class="enlarge" to="[object Object]" href="https://assets.ldscdn.org/f3/3c/f33ca9dea93611ec8f90eeeeac1eb6578dcb6fb1/book_of_mormon.pdf">
-<div class="imageWrapper-wTPPD"><figure class="loadImageItem-u5D4D" title="activity page: My testimony can strengthen others"><img width="320" height="416" alt=""/><div class="container-W4jed"><div class="innerFlex-R9N_u"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" role="presentation" class="sc-1d18oav-0 bYvpFK"> <path fill="currentColor" d="M20 4.75L19.25 4v16l.75-.75H4l.75.75V4L4 4.75h16zM3.25 4v16c0 .414.336.75.75.75h16a.75.75 0 0 0 .75-.75V4a.75.75 0 0 0-.75-.75H4a.75.75 0 0 0-.75.75zm11.07 8.888c.23-.357.606-.353.828-.008l2.887 4.482c.227.352.06.638-.357.638H6.326c-.421 0-.581-.3-.37-.648l4.006-6.622c.217-.358.567-.359.793.014l2.396 3.96 1.17-1.816zm1.59-2.735c1.14 0 2.066-.907 2.066-2.026 0-1.12-.926-2.027-2.067-2.027s-2.066.907-2.066 2.027c0 1.119.925 2.026 2.066 2.026z"> </path></svg><div class="sc-1szn76m-0 gUZQGm i18nString-raclU">Image</div><div class="sc-1szn76m-0 gUZQGm title-RrK9J">activity page: My testimony can strengthen others</div></div></div></figure></div>
 </a>
 </figure>
 </div></div>]]></content:encoded>
